@@ -7,17 +7,21 @@ export async function generateMetadata({
 }: {
   params: Promise<{ locale: string }>;
 }): Promise<Metadata> {
-  const baseUrl = 'https://willowcreekhoodoos.com';
-  const zhUrl = `${baseUrl}/cookie-settings`;
+  const { locale } = await params;
+  const baseUrl = 'https://salinasyarenalesdesanpedrodelpinatar.com';
+  const esUrl = `${baseUrl}/es/cookie-settings`;
   const enUrl = `${baseUrl}/en/cookie-settings`;
+  const zhUrl = `${baseUrl}/zh/cookie-settings`;
+  const selfUrl = locale === 'es' ? esUrl : locale === 'en' ? enUrl : zhUrl;
 
   return {
     alternates: {
-      canonical: zhUrl,
+      canonical: selfUrl,
       languages: {
-        'zh': zhUrl,
+        'es': esUrl,
         'en': enUrl,
-        'x-default': zhUrl,
+        'zh': zhUrl,
+        'x-default': esUrl,
       },
     },
   };

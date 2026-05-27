@@ -1,3 +1,5 @@
+import { useTranslations, useLocale } from 'next-intl';
+
 export default function Footer() {
   const t = useTranslations('footer');
   const locale = useLocale();

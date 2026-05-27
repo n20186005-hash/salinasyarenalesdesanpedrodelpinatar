@@ -15,12 +15,12 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { locale } = await params;
   const messages = (await import(`@/messages/${locale}.json`)).default;
-  const baseUrl = 'https://rosevalleyparkchisinau.com';
+  const baseUrl = 'https://salinasyarenalesdesanpedrodelpinatar.com';
 
-  const zhUrl = `${baseUrl}/zh`;
+  const esUrl = `${baseUrl}/es`;
   const enUrl = `${baseUrl}/en`;
-  const roUrl = `${baseUrl}/ro`;
-  const selfUrl = locale === 'zh' ? zhUrl : locale === 'en' ? enUrl : roUrl;
+  const zhUrl = `${baseUrl}/zh`;
+  const selfUrl = locale === 'es' ? esUrl : locale === 'en' ? enUrl : zhUrl;
 
   return {
     metadataBase: new URL(baseUrl),
@@ -29,18 +29,18 @@ export async function generateMetadata({
     alternates: {
       canonical: selfUrl,
       languages: {
-        'zh': zhUrl,
+        'es': esUrl,
         'en': enUrl,
-        'ro': roUrl,
-        'x-default': enUrl,
+        'zh': zhUrl,
+        'x-default': esUrl,
       },
     },
     openGraph: {
       title: messages.meta.title,
       description: messages.meta.description,
       url: selfUrl,
-      siteName: "Rose Valley Park",
-      locale: locale === 'zh' ? 'zh_CN' : locale === 'en' ? 'en_US' : 'ro_RO',
+      siteName: "Salinas y Arenales de San Pedro del Pinatar",
+      locale: locale === 'es' ? 'es_ES' : locale === 'en' ? 'en_US' : 'zh_CN',
       type: 'website',
     },
   };
