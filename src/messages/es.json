@@ -1,0 +1,303 @@
+{
+  "meta": {
+    "title": "Salinas y Arenales de San Pedro del Pinatar",
+    "description": "Guía completa de las Salinas y Arenales de San Pedro del Pinatar. Conoce este parque natural, su ubicación, información de visita y consejos de viaje."
+  },
+  "header": {
+    "home": "Inicio",
+    "gallery": "Galería",
+    "reviews": "Reseñas",
+    "map": "Mapa",
+    "backToHome": "Volver al Inicio"
+  },
+  "hero": {
+    "title": "Salinas y Arenales de San Pedro del Pinatar",
+    "subtitle": "Parque Natural · Murcia, España",
+    "rating": "4.6",
+    "reviewCount": "12.395 reseñas",
+    "type": "Parque Natural",
+    "openMaps": "Ver en Google Maps"
+  },
+  "intro": {
+    "title": "Descubre las Salinas y Arenales",
+    "description": "El Parque Regional de las Salinas y Arenales de San Pedro del Pinatar es una impresionante reserva natural situada en la Región de Murcia, España. Este ecosistema único combina salinas, dunas costeras y hábitats mediterráneos, convirtiéndolo en un paraíso para los amantes de la naturaleza y la observación de aves.",
+    "visitGuide": {
+      "title": "Consejos de Visita",
+      "items": [
+        "El parque es accesible todo el año con entrada gratuita.",
+        "Trae prismáticos para disfrutar de excelentes oportunidades de observación de aves.",
+        "Usa calzado cómodo para caminar por los senderos arenosos.",
+        "Visita durante el amanecer o el atardecer para obtener las mejores fotografías."
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Destacados",
+      "items": [
+        "Salinas y lagunas",
+        "Dunas de la Playa de la Llana",
+        "Diversas especies de aves (flamencos, avocetas)",
+        "Paisaje costero mediterráneo"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "Sobre las Salinas y Arenales",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Antecedentes Históricos",
+        "content": "Las salinas de San Pedro del Pinatar han estado en uso desde la antigüedad, con evidencia de producción de sal que se remonta a la época romana. El parque fue designado oficialmente como Parque Regional para proteger su único patrimonio natural y cultural."
+      },
+      {
+        "id": "ecosystem",
+        "title": "Ecosistema y Geografía",
+        "content": "El parque abarca 856 hectáreas e incluye salinas, lagunas costeras, dunas de arena y bosques de pinos. Sirve como una parada crucial para las aves migratorias a lo largo de la ruta migratoria mediterránea."
+      },
+      {
+        "id": "biodiversity",
+        "title": "Flora y Fauna",
+        "content": "El parque alberga más de 130 especies de aves a lo largo del año, incluyendo flamencos, avocetas, charranes y gaviotas. La flora incluye plantas tolerantes a la sal, vegetación de dunas y matorral mediterráneo."
+      },
+      {
+        "id": "conservation",
+        "title": "Estatus de Conservación",
+        "content": "El parque está protegido bajo múltiples designaciones internacionales: es un Humedal de Importancia Internacional Ramsar, parte de la red Natura 2000 tanto como Zona de Especial Protección para las Aves (ZEPA) como Lugar de Importancia Comunitaria (LIC)."
+      },
+      {
+        "id": "facilities",
+        "title": "Instalaciones para Visitantes",
+        "content": "El parque cuenta con varios puntos de observación, senderos peatonales y un centro de interpretación. Hay paneles informativos a lo largo de las rutas, y se ofrecen visitas guiadas bajo solicitud."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Información Básica",
+    "officialName": "Nombre Oficial",
+    "officialNameValue": "Parque Regional de las Salinas y Arenales de San Pedro del Pinatar",
+    "type": "Tipo de Atracción",
+    "typeValue": "Parque Natural",
+    "country": "País",
+    "countryValue": "España",
+    "city": "Ciudad",
+    "cityValue": "San Pedro del Pinatar, Murcia",
+    "googleRating": "Valoración de Google",
+    "googleRatingValue": "4.6 (12.395)",
+    "address": "Dirección",
+    "addressValue": "30740 San Pedro del Pinatar, Murcia, España",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "R6MJ+4X San Pedro del Pinatar, España"
+  },
+  "hours": {
+    "title": "Horario de Visita",
+    "park": "Acceso al Recinto",
+    "parkTime": "Abierto todo el año, 24 horas al día",
+    "bestTime": "Mejor Época para Visitar",
+    "bestTimeSpring": "Primavera: Época de migración de aves, temperaturas agradables",
+    "bestTimeSummer": "Verano: Temprano por la mañana o al atardecer para evitar el calor",
+    "bestTimeAutumn": "Otoño: Migración de aves, hermosos atardeceres",
+    "bestTimeWinter": "Invierno: Clima templado, ideal para caminar",
+    "tip": "El parque está abierto las 24 horas. La mejor observación de aves es durante las primeras horas de la mañana o al atardecer."
+  },
+  "tickets": {
+    "title": "Información de Entrada",
+    "park": "Visita al Recinto",
+    "parkPrice": "Entrada gratuita",
+    "parking": "Aparcamiento",
+    "parkingPrice": "Aparcamiento gratuito disponible en áreas designadas",
+    "guided": "Visitas Guiadas",
+    "guidedPrice": "Disponibles bajo solicitud en el centro de interpretación"
+  },
+  "transport": {
+    "title": "Cómo Llegar",
+    "fromCenter": "Desde Murcia Ciudad",
+    "fromCenterDesc": "Aproximadamente 45km desde el centro de Murcia. Toma la autovía A-7 hacia Cartagena, luego salida hacia San Pedro del Pinatar.",
+    "fromStation": "Desde Cartagena",
+    "fromStationDesc": "Aproximadamente 20km desde Cartagena. Accesible en autobús o coche via RM-3 y AP-7.",
+    "fromAirport": "Desde el Aeropuerto",
+    "fromAirportDesc": "El Aeropuerto Internacional de Murcia (RMU) está a aproximadamente 15km. El Aeropuerto de Alicante (ALC) está a unos 75km al norte.",
+    "publicTransport": "Transporte Público",
+    "publicTransportDesc": "Los autobuses interurbanos conectan San Pedro del Pinatar con Murcia y Cartagena. Los autobuses locales sirven al pueblo.",
+    "walking": "Caminando",
+    "walkingDesc": "El parque es accesible a pie desde el centro del pueblo de San Pedro del Pinatar (aproximadamente 2km hasta la entrada principal).",
+    "driving": "En Coche",
+    "drivingDesc": "Accesible en coche via AP-7 o RM-3. Sigue los letreros a 'Salinas' o 'Parque Regional'."
+  },
+  "route": {
+    "title": "Ruta Recomendada",
+    "overview": "Un paseo panorámico a través de las salinas y dunas costeras.",
+    "steps": [
+      "Comienza en el área de aparcamiento principal cerca del centro de interpretación",
+      "Camina por el sendero de observación sur para la observación de aves",
+      "Visita las salinas y observa la cosecha tradicional de sal",
+      "Continúa hacia las dunas de la Playa de la Llana",
+      "Termina en el mirador norte para las vistas del atardecer"
+    ]
+  },
+  "photoSpots": {
+    "title": "Mejores Lugares para Fotografía",
+    "spots": [
+      {
+        "title": "Mirador de las Salinas",
+        "description": "La vista de las salinas con aguas rosadas durante la temporada de evaporación crea reflejos impresionantes, especialmente al amanecer.",
+        "location": "Área principal de observación",
+        "image": "/gallery/salinas-1.jpg"
+      },
+      {
+        "title": "Observatorio de Aves",
+        "description": "Uno de los varios escondites para observación de aves alrededor de las lagunas. Perfecto para capturar flamencos y otras aves zancudas.",
+        "location": "Área de laguna este",
+        "image": "/gallery/salinas-2.jpg"
+      },
+      {
+        "title": "Dunas de la Playa de la Llana",
+        "description": "Las dunas de arena ofrecen hermosas texturas y vistas costeras, ideales para fotografía de paisaje y naturaleza.",
+        "location": "Área sur del parque",
+        "image": "/gallery/salinas-3.jpg"
+      },
+      {
+        "title": "Mirador del Atardecer",
+        "description": "La parte norte del parque ofrece vistas panorámicas del atardecer sobre las salinas y el Mar Menor.",
+        "location": "Área del puesto de control norte",
+        "image": "/gallery/salinas-4.jpg"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Galería de Fotos",
+    "subtitle": "Vistas Escénicas de las Salinas y Arenales",
+    "captions": [
+      "Panorámica de las salinas",
+      "Flamencos en la laguna",
+      "Paisaje de dunas",
+      "Observatorio de aves",
+      "Atardecer sobre las salinas",
+      "Vegetación mediterránea",
+      "Paseo marítimo costero",
+      "Cosecha tradicional de sal",
+      "Aves migratorias",
+      "Ecosistema de dunas",
+      "Entrada al parque",
+      "Vista del Mar Menor"
+    ],
+    "viewAll": "Ver en Google Maps",
+    "showAll": "Ver Todas las Fotos",
+    "showLess": "Ver Menos"
+  },
+  "reviews": {
+    "title": "Reseñas de Visitantes",
+    "declaration": "Los comentarios de los visitantes se pueden ver a través de Google Maps.",
+    "moreReviews": "Ver más reseñas en Google Maps",
+    "items": [
+      {
+        "name": "Carlos M.",
+        "rating": 5,
+        "date": "2026-03-15",
+        "text": "Un parque natural absolutamente espectacular. La variedad de aves que puedes observar aquí es increíble. Una visita obligada si estás en la Región de Murcia."
+      },
+      {
+        "name": "Laura G.",
+        "rating": 5,
+        "date": "2026-02-28",
+        "text": "Hermoso lugar para un paseo tranquilo. La combinación de salinas, mar y dunas es única. Perfecto para los entusiastas de la fotografía."
+      },
+      {
+        "name": "Antonio R.",
+        "rating": 5,
+        "date": "2026-04-05",
+        "text": "Uno de los mejores parques naturales de la Región de Murcia. Los paneles interpretativos son muy informativos y los senderos están bien mantenidos."
+      },
+      {
+        "name": "María S.",
+        "rating": 4,
+        "date": "2026-01-20",
+        "text": "Excelente lugar para la observación de aves. Vimos flamencos, avocetas y muchas otras especies. Ve temprano por la mañana para la mejor experiencia."
+      },
+      {
+        "name": "David L.",
+        "rating": 5,
+        "date": "2025-12-10",
+        "text": "Una joya escondida en San Pedro del Pinatar. Las vistas del atardecer desde la parte norte del parque son impresionantes. La entrada gratuita es un plus."
+      },
+      {
+        "name": "Elena F.",
+        "rating": 5,
+        "date": "2025-11-25",
+        "text": "Perfecto para una salida familiar. A los niños les encantó el centro de interpretación y mirar las aves a través de los prismáticos. Muy educativo."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Ubicación en el Mapa",
+    "subtitle": "30740 San Pedro del Pinatar, Murcia, España",
+    "openMaps": "Ver en Google Maps"
+  },
+  "footer": {
+    "brandName": "Salinas y Arenales de San Pedro del Pinatar",
+    "brandSubtitle": "Parque Natural · Murcia, España",
+    "rights": "© 2026 Guía Turística de las Salinas y Arenales de San Pedro del Pinatar · Todos los Derechos Reservados.",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio",
+    "cookies": "Configuración de Cookies",
+    "officialResourcesTitle": "Recursos y Información Relacionados",
+    "disclaimer": "Este sitio web es un proyecto independiente de información turística de terceros. No estamos afiliados con el gobierno local u otras agencias oficiales."
+  },
+  "privacy": {
+    "title": "Política de Privacidad",
+    "lastUpdated": "Última actualización: Mayo 2026",
+    "sections": [
+      {
+        "title": "Recopilación de Información",
+        "content": "Cuando visitas nuestro sitio web, podemos recopilar automáticamente información básica sobre tu dispositivo, navegador y comportamiento de navegación para proporcionar una mejor experiencia de usuario. Esta información no contiene tu identidad personal."
+      },
+      {
+        "title": "Uso de Cookies",
+        "content": "Utilizamos cookies para analizar el tráfico del sitio web y optimizar el contenido de la página. Puedes gestionar tus preferencias en cualquier momento a través de la opción de Configuración de Cookies en la parte inferior de nuestro sitio."
+      },
+      {
+        "title": "Seguridad y Protección de Datos",
+        "content": "Estamos comprometidos a proteger la seguridad de tus datos de privacidad y no venderemos, alquilaremos ni comerciaremos con tus datos de navegación a ninguna organización comercial de terceros."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Términos de Servicio",
+    "lastUpdated": "Última actualización: Mayo 2026",
+    "sections": [
+      {
+        "title": "Contenido y Uso del Sitio Web",
+        "content": "Este sitio web proporciona información de viaje, transporte e historia sobre las Salinas y Arenales de San Pedro del Pinatar. Todo el contenido es solo para referencia. El horario de apertura real y la información de entradas de las atracciones pueden cambiar en cualquier momento, consulta los anuncios oficiales."
+      },
+      {
+        "title": "Propiedad Intelectual",
+        "content": "El texto, las imágenes y los diseños de diseño en este sitio web están protegidos por derechos de autor. Sin permiso explícito por escrito, nadie puede usar el contenido del sitio web para lucro comercial."
+      },
+      {
+        "title": "Renuncia de Responsabilidad",
+        "content": "Hacemos todo lo posible para garantizar la precisión y actualidad de la información, pero no nos hacemos responsables legalmente por cualquier retraso de viaje o pérdidas causadas directa o indirectamente por el uso de la información proporcionada en este sitio web."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Configuración de Cookies",
+    "description": "Gestiona tus preferencias de cookies.",
+    "essential": {
+      "title": "Cookies Esenciales",
+      "description": "Requerido para la funcionalidad básica del sitio web y no se puede desactivar.",
+      "badge": "Siempre activo"
+    },
+    "analytics": {
+      "title": "Análisis",
+      "description": "Ayúdanos a entender el comportamiento de los visitantes y mejorar el sitio web."
+    },
+    "marketing": {
+      "title": "Marketing",
+      "description": "Utilizado para el seguimiento entre sitios y la entrega de anuncios personalizados."
+    },
+    "save": "Guardar Preferencias",
+    "saved": "¡Preferencias guardadas!"
+  },
+  "officialManagement": {
+    "title": "Sobre las Salinas y Arenales",
+    "text": "El Parque Regional de las Salinas y Arenales de San Pedro del Pinatar es un área natural protegida en la Región de Murcia, España. El parque es gestionado por el Gobierno Regional de Murcia en colaboración con el Ayuntamiento de San Pedro del Pinatar para la conservación y el uso público."
+  }
+}

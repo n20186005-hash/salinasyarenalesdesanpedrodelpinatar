@@ -1,0 +1,303 @@
+{
+  "meta": {
+    "title": "圣佩德罗德尔皮纳塔尔盐田与沙滩 (Salinas y Arenales)",
+    "description": "圣佩德罗德尔皮纳塔尔盐田与沙滩自然公园的完整旅游指南。了解这一美丽的自然保护区、位置和游览信息。"
+  },
+  "header": {
+    "home": "首页",
+    "gallery": "图库",
+    "reviews": "评价",
+    "map": "地图",
+    "backToHome": "返回首页"
+  },
+  "hero": {
+    "title": "圣佩德罗德尔皮纳塔尔盐田与沙滩",
+    "subtitle": "自然公园 · 穆尔西亚，西班牙",
+    "rating": "4.6",
+    "reviewCount": "12,395 条评价",
+    "type": "自然公园",
+    "openMaps": "在Google地图上查看位置"
+  },
+  "intro": {
+    "title": "探索圣佩德罗德尔皮纳塔尔盐田与沙滩",
+    "description": "圣佩德罗德尔皮纳塔尔盐田与沙滩区域公园（Parque Regional de las Salinas y Arenales de San Pedro del Pinatar）是位于西班牙穆尔西亚自治区的一处令人惊叹的自然保护区。这一独特的生态系统结合了盐田、沙丘和地中海沿海栖息地，是观鸟者和自然爱好者的天堂。",
+    "visitGuide": {
+      "title": "游览建议",
+      "items": [
+        "公园全年开放，免费入场。",
+        "带上双筒望远镜，享受绝佳的观鸟机会。",
+        "穿舒适的鞋子，方便在沙路上行走。",
+        "在日出或日落时分参观，可获得最佳摄影效果。"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "亮点",
+      "items": [
+        "盐田和泻湖",
+        "拉利亚纳海滩（Playa de la Llana）沙丘",
+        "多样的鸟类（火烈鸟、反嘴鹬）",
+        "地中海沿海风光"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "关于盐田与沙滩自然公园",
+    "sections": [
+      {
+        "id": "history",
+        "title": "历史背景",
+        "content": "圣佩德罗德尔皮纳塔尔的盐田自古以来就在使用，有证据表明盐的生产可以追溯到罗马时代。该公园被正式指定为区域公园，以保护其独特的自然和文化遗产。"
+      },
+      {
+        "id": "ecosystem",
+        "title": "生态系统与地理",
+        "content": "公园占地856公顷，包括盐田、沿海泻湖、沙丘和松林。它是地中海迁徙路线上候鸟的重要中转站。"
+      },
+      {
+        "id": "biodiversity",
+        "title": "动植物",
+        "content": "公园全年栖息着130多种鸟类，包括火烈鸟、反嘴鹬、燕鸥和海鸥。植物群包括耐盐植物、沙丘植被和地中海灌木丛。"
+      },
+      {
+        "id": "conservation",
+        "title": "保护 status",
+        "content": "该公园受多项国际指定保护：它是拉姆萨尔国际重要湿地、Natura 2000网络的一部分（既是特别保护区ZEPA，也是社区重要站点LIC）。"
+      },
+      {
+        "id": "facilities",
+        "title": "游客设施",
+        "content": "公园设有多个观景点、步行道和讲解中心。沿途设有信息牌，可根据要求提供导览服务。"
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "基础信息",
+    "officialName": "正式名称",
+    "officialNameValue": "Parque Regional de las Salinas y Arenales de San Pedro del Pinatar",
+    "type": "景点类型",
+    "typeValue": "自然公园",
+    "country": "国家",
+    "countryValue": "西班牙",
+    "city": "城市",
+    "cityValue": "圣佩德罗德尔皮纳塔尔，穆尔西亚",
+    "googleRating": "谷歌评分",
+    "googleRatingValue": "4.6 (12,395)",
+    "address": "地址",
+    "addressValue": "30740 San Pedro del Pinatar, Murcia, Spain",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "R6MJ+4X San Pedro del Pinatar, Spain"
+  },
+  "hours": {
+    "title": "开放时间",
+    "park": "景区开放",
+    "parkTime": "全年开放（24小时）",
+    "bestTime": "最佳游览时间",
+    "bestTimeSpring": "春季：鸟类迁徙季节，气温宜人",
+    "bestTimeSummer": "夏季：清晨或傍晚参观以避开高温",
+    "bestTimeAutumn": "秋季：鸟类迁徙，美丽的日落",
+    "bestTimeWinter": "冬季：温和的天气，适合散步",
+    "tip": "公园全天候开放。最佳观鸟时间是清晨或傍晚。"
+  },
+  "tickets": {
+    "title": "门票信息",
+    "park": "景区参观",
+    "parkPrice": "免费入场",
+    "parking": "停车",
+    "parkingPrice": "指定区域有免费停车场",
+    "guided": "导游服务",
+    "guidedPrice": "可在讲解中心申请导览"
+  },
+  "transport": {
+    "title": "交通指南",
+    "fromCenter": "从穆尔西亚市区",
+    "fromCenterDesc": "距离穆尔西亚市中心约45公里。沿A-7高速公路前往卡塔赫纳方向，然后在圣佩德罗德尔皮纳塔尔出口下。",
+    "fromStation": "从卡塔赫纳",
+    "fromStationDesc": "距离卡塔赫纳约20公里。可乘坐公交车或驾车经RM-3和AP-7到达。",
+    "fromAirport": "从机场",
+    "fromAirportDesc": "穆尔西亚国际机场（RMU）距离约15公里。阿利坎特机场（ALC）位于北侧约75公里处。",
+    "publicTransport": "公共交通",
+    "publicTransportDesc": "城际公交车连接圣佩德罗德尔皮纳塔尔与穆尔西亚和卡塔赫纳。当地公交车服务于该镇。",
+    "walking": "步行",
+    "walkingDesc": "从圣佩德罗德尔皮纳塔尔镇中心可步行到达公园（到主入口约2公里）。",
+    "driving": "自驾",
+    "drivingDesc": "可驾车经AP-7或RM-3到达。按照'Salinas'或'Parque Regional'的指示牌行驶。"
+  },
+  "route": {
+    "title": "推荐游览路线",
+    "overview": "穿越盐田和沿海沙丘的风景散步路线。",
+    "steps": [
+      "从讲解中心附近的主停车场开始",
+      "沿南部观鸟小径行走观鸟",
+      "参观盐田，观察传统晒盐过程",
+      "继续前往拉利亚纳海滩（Playa de la Llana）的沙丘",
+      "在北部的观景点结束，欣赏日落景色"
+    ]
+  },
+  "photoSpots": {
+    "title": "绝佳拍照点",
+    "spots": [
+      {
+        "title": "盐田观景台",
+        "description": "在蒸发季节，盐田的粉红色水面创造出令人惊叹的倒影，尤其是在日出时分。",
+        "location": "主要观景区",
+        "image": "/gallery/salinas-1.jpg"
+      },
+      {
+        "title": "观鸟隐蔽所（Observatorio）",
+        "description": "泻湖周围的几个观鸟隐蔽所之一。非常适合拍摄火烈鸟和其他涉水鸟。",
+        "location": "东泻湖区",
+        "image": "/gallery/salinas-2.jpg"
+      },
+      {
+        "title": "拉利亚纳海滩沙丘",
+        "description": "沙丘提供美丽的纹理和沿海景色，是风景和自然摄影的理想选择。",
+        "location": "公园南部区域",
+        "image": "/gallery/salinas-3.jpg"
+      },
+      {
+        "title": "日落观景点",
+        "description": "公园的北部区域提供盐田和梅诺尔海的的全景日落视图。",
+        "location": "北部检查站区域",
+        "image": "/gallery/salinas-4.jpg"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "照片画廊",
+    "subtitle": "盐田与沙滩美景",
+    "captions": [
+      "盐田全景",
+      "泻湖中的火烈鸟",
+      "沙丘景观",
+      "观鸟隐蔽所",
+      "盐田日落",
+      "地中海植被",
+      "沿海木板路",
+      "传统晒盐",
+      "候鸟",
+      "沙丘生态系统",
+      "公园入口",
+      "梅诺尔海景观"
+    ],
+    "viewAll": "在Google地图上查看位置",
+    "showAll": "显示完整照片",
+    "showLess": "收起照片"
+  },
+  "reviews": {
+    "title": "游客评价",
+    "declaration": "评价信息可通过Google地图查看。",
+    "moreReviews": "在Google地图上查看更多评价",
+    "items": [
+      {
+        "name": "Carlos M.",
+        "rating": 5,
+        "date": "2026-03-15",
+        "text": "一个绝对壮观的自然公园。你在这里可以观察到的鸟类种类令人难以置信。如果你在穆尔西亚地区，一定要来参观。"
+      },
+      {
+        "name": "Laura G.",
+        "rating": 5,
+        "date": "2026-02-28",
+        "text": "非常适合宁静散步的地方。盐田、大海和沙丘的结合是独一无二的。非常适合摄影爱好者。"
+      },
+      {
+        "name": "Antonio R.",
+        "rating": 5,
+        "date": "2026-04-05",
+        "text": "穆尔西亚自治区最好的自然公园之一。讲解牌非常 informative，小径维护得很好。"
+      },
+      {
+        "name": "Maria S.",
+        "rating": 4,
+        "date": "2026-01-20",
+        "text": "观鸟的好地方。我们看到了火烈鸟、反嘴鹬和许多其他物种。一大早去获得最佳体验。"
+      },
+      {
+        "name": "David L.",
+        "rating": 5,
+        "date": "2025-12-10",
+        "text": "圣佩德罗德尔皮纳塔尔的隐藏宝石。从公园北部看日落的景色令人叹为观止。免费入场是一大优点。"
+      },
+      {
+        "name": "Elena F.",
+        "rating": 5,
+        "date": "2025-11-25",
+        "text": "非常适合家庭出游。孩子们很喜欢讲解中心和用双筒望远镜看鸟。非常有教育意义。"
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "地图位置",
+    "subtitle": "30740 San Pedro del Pinatar, Murcia, Spain",
+    "openMaps": "在Google地图上查看位置"
+  },
+  "footer": {
+    "brandName": "圣佩德罗德尔皮纳塔尔盐田与沙滩",
+    "brandSubtitle": "自然公园 · 穆尔西亚，西班牙",
+    "rights": "© 2026 圣佩德罗德尔皮纳塔尔盐田与沙滩旅游指南 · 保留所有权利。",
+    "privacy": "隐私政策",
+    "terms": "服务条款",
+    "cookies": "Cookie 设置",
+    "officialResourcesTitle": "相关资源与资讯",
+    "disclaimer": "本网站是一个独立的第三方旅游资讯项目。我们与当地政府或其他官方机构没有任何关联。"
+  },
+  "privacy": {
+    "title": "隐私政策",
+    "lastUpdated": "最后更新：2026年5月",
+    "sections": [
+      {
+        "title": "信息收集",
+        "content": "当您访问我们的网站时，我们可能会自动收集有关您设备、浏览器和浏览行为的基本信息，以便为您提供更好的用户体验。这些信息不包含您的身份特征。"
+      },
+      {
+        "title": "Cookie 的使用",
+        "content": "我们使用 Cookie 来分析网站流量并优化页面内容。您可以通过本站底部的 Cookie 设置选项来随时管理您的偏好。"
+      },
+      {
+        "title": "数据安全与保护",
+        "content": "我们致力于保护您的隐私数据安全，不会将您的浏览数据出售、出租或交易给任何第三方商业机构。"
+      }
+    ]
+  },
+  "terms": {
+    "title": "服务条款",
+    "lastUpdated": "最后更新：2026年5月",
+    "sections": [
+      {
+        "title": "网站内容与使用",
+        "content": "本网站提供有关圣佩德罗德尔皮纳塔尔盐田与沙滩的旅游、交通及自然信息。所有内容仅供参考，景点的实际开放时间和票务信息可能随时更改，请以官方发布为准。"
+      },
+      {
+        "title": "知识产权说明",
+        "content": "本网站上的文本、图像和排版设计受版权保护。未经明确的书面许可，任何人不得将网站内容用于商业盈利用途。"
+      },
+      {
+        "title": "免责声明",
+        "content": "我们尽最大努力确保信息的准确性与时效性，但对于因使用本网站提供的信息而直接或间接造成的任何行程延误或损失，本站不承担法律责任。"
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie 设置",
+    "description": "管理您的Cookie偏好。",
+    "essential": {
+      "title": "必要的Cookie",
+      "description": "基本网站功能所需，无法关闭。",
+      "badge": "始终启用"
+    },
+    "analytics": {
+      "title": "分析",
+      "description": "帮助我们了解访客行为并改进网站。"
+    },
+    "marketing": {
+      "title": "营销",
+      "description": "用于跨网站跟踪和个性化广告展示。"
+    },
+    "save": "保存设置",
+    "saved": "设置已保存！"
+  },
+  "officialManagement": {
+    "title": "关于盐田与沙滩自然公园",
+    "text": "圣佩德罗德尔皮纳塔尔盐田与沙滩区域公园是西班牙穆尔西亚自治区的一个受保护自然区域。该公园由穆尔西亚地区政府与圣佩德罗德尔皮纳塔尔市议会合作管理，用于保护和公共使用。"
+  }
+}

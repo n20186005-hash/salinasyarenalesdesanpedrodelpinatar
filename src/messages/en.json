@@ -1,0 +1,303 @@
+{
+  "meta": {
+    "title": "Salinas y Arenales de San Pedro del Pinatar",
+    "description": "Complete guide to Salinas y Arenales de San Pedro del Pinatar. Learn about this natural park, its location, visiting information, and travel tips."
+  },
+  "header": {
+    "home": "Home",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "map": "Map",
+    "backToHome": "Back to Home"
+  },
+  "hero": {
+    "title": "Salinas y Arenales de San Pedro del Pinatar",
+    "subtitle": "Natural Park · Murcia, Spain",
+    "rating": "4.6",
+    "reviewCount": "12,395 reviews",
+    "type": "Natural Park",
+    "openMaps": "View on Google Maps"
+  },
+  "intro": {
+    "title": "Discover Salinas y Arenales de San Pedro del Pinatar",
+    "description": "The Salinas y Arenales de San Pedro del Pinatar Regional Park is a stunning natural reserve located in the Region of Murcia, Spain. This unique ecosystem combines salt flats, sand dunes, and Mediterranean coastal habitats, making it a paradise for birdwatchers and nature lovers.",
+    "visitGuide": {
+      "title": "Visit Tips",
+      "items": [
+        "The park is accessible year-round with free admission.",
+        "Bring binoculars for excellent birdwatching opportunities.",
+        "Wear comfortable shoes for walking on sandy paths.",
+        "Visit during sunrise or sunset for the best photography."
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Highlights",
+      "items": [
+        "Salt flats and lagoons",
+        "Sand dunes of Playa de la Llana",
+        "Diverse bird species (flamingos, avocets)",
+        "Mediterranean coastal scenery"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "About Salinas y Arenales",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Historical Background",
+        "content": "The salt flats of San Pedro del Pinatar have been in use since ancient times, with evidence of salt production dating back to the Roman era. The park was officially designated as a Regional Park to protect its unique natural and cultural heritage."
+      },
+      {
+        "id": "ecosystem",
+        "title": "Ecosystem & Geography",
+        "content": "The park covers 856 hectares and includes salt flats, coastal lagoons, sand dunes, and pine forests. It serves as a crucial stopover for migratory birds along the Mediterranean flyway."
+      },
+      {
+        "id": "biodiversity",
+        "title": "Flora & Fauna",
+        "content": "The park hosts over 130 species of birds throughout the year, including flamingos, avocets, terns, and gulls. The flora includes salt-tolerant plants, dunes vegetation, and Mediterranean scrubland."
+      },
+      {
+        "id": "conservation",
+        "title": "Conservation Status",
+        "content": "The park is protected under multiple international designations: it is a Ramsar Wetland of International Importance, part of the Natura 2000 network as both a Special Protection Area (ZEPA) and a Site of Community Importance (LIC)."
+      },
+      {
+        "id": "facilities",
+        "title": "Visitor Facilities",
+        "content": "The park features several observation points, walking trails, and an interpretation center. There are information panels along the routes, and guided tours are available upon request."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Basic Information",
+    "officialName": "Official Name",
+    "officialNameValue": "Parque Regional de las Salinas y Arenales de San Pedro del Pinatar",
+    "type": "Attraction Type",
+    "typeValue": "Natural Park",
+    "country": "Country",
+    "countryValue": "Spain",
+    "city": "City",
+    "cityValue": "San Pedro del Pinatar, Murcia",
+    "googleRating": "Google Rating",
+    "googleRatingValue": "4.6 (12,395)",
+    "address": "Address",
+    "addressValue": "30740 San Pedro del Pinatar, Murcia, Spain",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "R6MJ+4X San Pedro del Pinatar, Spain"
+  },
+  "hours": {
+    "title": "Visiting Hours",
+    "park": "Site Access",
+    "parkTime": "Open year-round, 24 hours a day",
+    "bestTime": "Best Time to Visit",
+    "bestTimeSpring": "Spring: Bird migration season, pleasant temperatures",
+    "bestTimeSummer": "Summer: Early morning or evening to avoid heat",
+    "bestTimeAutumn": "Autumn: Bird migration, beautiful sunsets",
+    "bestTimeWinter": "Winter: Mild weather, ideal for walking",
+    "tip": "The park is open 24/7. The best birdwatching is during early morning or late afternoon."
+  },
+  "tickets": {
+    "title": "Admission Information",
+    "park": "Site Visit",
+    "parkPrice": "Free admission",
+    "parking": "Parking",
+    "parkingPrice": "Free parking available at designated areas",
+    "guided": "Guided Tours",
+    "guidedPrice": "Available upon request at the interpretation center"
+  },
+  "transport": {
+    "title": "How to Get Here",
+    "fromCenter": "From Murcia City",
+    "fromCenterDesc": "Approximately 45km from Murcia city center. Take the A-7 motorway towards Cartagena, then exit towards San Pedro del Pinatar.",
+    "fromStation": "From Cartagena",
+    "fromStationDesc": "About 20km from Cartagena. Accessible by bus or car via the RM-3 and AP-7.",
+    "fromAirport": "From Airport",
+    "fromAirportDesc": "Murcia International Airport (RMU) is approximately 15km away. Alicante Airport (ALC) is about 75km north.",
+    "publicTransport": "Public Transport",
+    "publicTransportDesc": "Interurban buses connect San Pedro del Pinatar with Murcia and Cartagena. Local buses serve the town.",
+    "walking": "Walking",
+    "walkingDesc": "The park is accessible on foot from San Pedro del Pinatar town center (approximately 2km to the main entrance).",
+    "driving": "Driving",
+    "drivingDesc": "Accessible by car via the AP-7 or RM-3. Follow signs to 'Salinas' or 'Parque Regional'."
+  },
+  "route": {
+    "title": "Recommended Route",
+    "overview": "A scenic walk through the salt flats and coastal dunes.",
+    "steps": [
+      "Start at the main parking area near the interpretation center",
+      "Walk along the southern observation trail for birdwatching",
+      "Visit the salt flats and observe traditional salt harvesting",
+      "Continue to the dunes of Playa de la Llana",
+      "End at the northern lookout point for sunset views"
+    ]
+  },
+  "photoSpots": {
+    "title": "Top Photo Spots",
+    "spots": [
+      {
+        "title": "Salt Flats Lookout",
+        "description": "The view of the salt flats with pink waters during evaporation season creates stunning reflections, especially at sunrise.",
+        "location": "Main observation area",
+        "image": "/gallery/salinas-1.jpg"
+      },
+      {
+        "title": "Bird Hide (Observatorio)",
+        "description": "One of several birdwatching hides around the lagoons. Perfect for capturing flamingos and other wading birds.",
+        "location": "Eastern lagoon area",
+        "image": "/gallery/salinas-2.jpg"
+      },
+      {
+        "title": "Playa de la Llana Dunes",
+        "description": "The sand dunes offer beautiful textures and coastal views, ideal for landscape and nature photography.",
+        "location": "Southern area of the park",
+        "image": "/gallery/salinas-3.jpg"
+      },
+      {
+        "title": "Sunset Viewpoint",
+        "description": "The northern part of the park offers panoramic sunset views over the salt flats and the Mar Menor.",
+        "location": "Northern checkpoint area",
+        "image": "/gallery/salinas-4.jpg"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Photo Gallery",
+    "subtitle": "Scenic Views of Salinas y Arenales",
+    "captions": [
+      "Salt flats panorama",
+      "Flamingos at the lagoon",
+      "Sand dunes landscape",
+      "Birdwatching hide",
+      "Sunset over the salt flats",
+      "Mediterranean vegetation",
+      "Coastal boardwalk",
+      "Traditional salt harvesting",
+      "Migratory birds",
+      "Dune ecosystem",
+      "Park entrance",
+      "Mar Menor view"
+    ],
+    "viewAll": "View on Google Maps",
+    "showAll": "View All Photos",
+    "showLess": "Show Less"
+  },
+  "reviews": {
+    "title": "Visitor Reviews",
+    "declaration": "Visitor feedback can be viewed via Google Maps.",
+    "moreReviews": "View more reviews on Google Maps",
+    "items": [
+      {
+        "name": "Carlos M.",
+        "rating": 5,
+        "date": "2026-03-15",
+        "text": "An absolutely spectacular natural park. The variety of birds you can observe here is incredible. A must-visit if you're in the Murcia region."
+      },
+      {
+        "name": "Laura G.",
+        "rating": 5,
+        "date": "2026-02-28",
+        "text": "Beautiful place for a peaceful walk. The combination of salt flats, sea, and dunes is unique. Perfect for photography enthusiasts."
+      },
+      {
+        "name": "Antonio R.",
+        "rating": 5,
+        "date": "2026-04-05",
+        "text": "One of the best natural parks in the Region of Murcia. The interpretive panels are very informative, and the trails are well maintained."
+      },
+      {
+        "name": "Maria S.",
+        "rating": 4,
+        "date": "2026-01-20",
+        "text": "Great place for birdwatching. We saw flamingos, avocets, and many other species. Go early in the morning for the best experience."
+      },
+      {
+        "name": "David L.",
+        "rating": 5,
+        "date": "2025-12-10",
+        "text": "A hidden gem in San Pedro del Pinatar. The sunset views from the northern part of the park are breathtaking. Free entrance is a plus."
+      },
+      {
+        "name": "Elena F.",
+        "rating": 5,
+        "date": "2025-11-25",
+        "text": "Perfect for a family outing. The kids enjoyed the interpretive center and looking at the birds through the binoculars. Very educational."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Map Location",
+    "subtitle": "30740 San Pedro del Pinatar, Murcia, Spain",
+    "openMaps": "View on Google Maps"
+  },
+  "footer": {
+    "brandName": "Salinas y Arenales de San Pedro del Pinatar",
+    "brandSubtitle": "Natural Park · Murcia, Spain",
+    "rights": "© 2026 Salinas y Arenales de San Pedro del Pinatar Tourism Guide · All Rights Reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Settings",
+    "officialResourcesTitle": "Related Resources & Information",
+    "disclaimer": "This website is an independent third-party tourism information project. We are not affiliated with the local government or any other official agencies."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: May 2026",
+    "sections": [
+      {
+        "title": "Information Collection",
+        "content": "When you visit our website, we may automatically collect basic information about your device, browser, and browsing behavior to provide a better user experience. This information does not contain your personal identity."
+      },
+      {
+        "title": "Use of Cookies",
+        "content": "We use cookies to analyze website traffic and optimize page content. You can manage your preferences at any time through the Cookie Settings option at the bottom of our site."
+      },
+      {
+        "title": "Data Security and Protection",
+        "content": "We are committed to protecting the security of your privacy data and will not sell, rent, or trade your browsing data to any third-party commercial organizations."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last updated: May 2026",
+    "sections": [
+      {
+        "title": "Website Content and Use",
+        "content": "This website provides travel, transportation, and historical information about Salinas y Arenales de San Pedro del Pinatar. All content is for reference only. Actual opening hours and ticket information for attractions may change at any time, please refer to official announcements."
+      },
+      {
+        "title": "Intellectual Property",
+        "content": "The text, images, and layout designs on this website are protected by copyright. Without explicit written permission, no one may use the website content for commercial profit."
+      },
+      {
+        "title": "Disclaimer",
+        "content": "We do our best to ensure the accuracy and timeliness of the information, but we bear no legal responsibility for any travel delays or losses caused directly or indirectly by the use of the information provided on this website."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie Settings",
+    "description": "Manage your cookie preferences.",
+    "essential": {
+      "title": "Essential Cookies",
+      "description": "Required for basic website functionality and cannot be switched off.",
+      "badge": "Always active"
+    },
+    "analytics": {
+      "title": "Analytics",
+      "description": "Help us understand visitor behavior and improve the website."
+    },
+    "marketing": {
+      "title": "Marketing",
+      "description": "Used for cross-site tracking and personalized ad delivery."
+    },
+    "save": "Save Preferences",
+    "saved": "Preferences saved!"
+  },
+  "officialManagement": {
+    "title": "About Salinas y Arenales",
+    "text": "The Salinas y Arenales de San Pedro del Pinatar Regional Park is a protected natural area in the Region of Murcia, Spain. The park is managed by the Regional Government of Murcia in collaboration with the San Pedro del Pinatar Town Council for conservation and public use."
+  }
+}

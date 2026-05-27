@@ -1,0 +1,126 @@
+你正在用（Next.js开发）
+为一个新景点【 Salinas y Arenales de San Pedro del Pinatar 】构建静态/Next.js 单页指南网站。
+页面只需要支持中文和英文双语言
+
+salinas-y-arenales-de-san-pedro-del-pinatar
+西班牙
+穆尔西亚自治区	Salinas y Arenales de San Pedro del Pinatar
+
+Salinas y Arenales de San Pedro del Pinatar
+4.6(12,395)
+Parque Regional de las Salinas y Arenales de San Pedro del Pinatar
+生态园
+30740 San Pedro del Pinatar, Murcia, Spain
+R6MJ+4X San Pedro del Pinatar, Spain
+
+https://maps.app.goo.gl/evq26chDcWZXhCYn7
+
+
+
+首屏背景图要引用以下
+C:\Users\Administrator\Documents\GitHub\salinas-y-arenales-de-san-pedro-del-pinatar\public\gallery
+
+
+删除原先友情链接，新增以下友情链接
+
+西班牙国家旅游局
+https://www.spain.info/
+穆尔西亚自治区官方旅游局
+https://www.murciaturistica.es/
+圣佩德罗德尔皮纳塔市政府
+https://www.sanpedrodelpinatar.es/
+拉姆萨尔国际湿地公约数据库
+https://rsis.ramsar.org/
+欧洲 Natura 2000 保护区网络
+https://natura2000.eea.europa.eu/
+
+
+在Google地图上查看位置都跳转为 https://maps.app.goo.gl/evq26chDcWZXhCYn7
+页面一共四个链接每一个都需要修改
+
+
+照片画廊
+精彩照片 显示照片不全目前只显示8张，需要有显示完整照片显示功能
+检查照片名称是否正确并修正
+
+
+删除 探索更多 板块
+
+
+首屏谷歌地图位置跳转为 https://maps.app.goo.gl/evq26chDcWZXhCYn7
+
+照片画廊
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/evq26chDcWZXhCYn7
+
+游客评价
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/evq26chDcWZXhCYn7
+
+地图位置
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/evq26chDcWZXhCYn7
+
+首屏右侧切换中文的时候 网站没转为/zh
+
+新增西班牙语
+
+
+生成一个文件忽略不需要上传的文件
+
+
+
+
+
+
+
+国家级官方机构 (National Level)
+西班牙国家旅游局官方网站 (Turespaña / Spain.info)
+
+链接: https://www.spain.info/
+
+背景: 西班牙工业、贸易与旅游部下属的官方国家旅游门户。
+
+西班牙生态转型与人口挑战部 (MITECO)
+
+链接: https://www.miteco.gob.es/
+
+背景: 负责国家自然公园、湿地保护和生态政策的最高国家政府部门。
+
+2. 大区级官方机构 (Regional Level - Murcia)
+穆尔西亚自治区官方旅游局 (Murcia Turística)
+
+链接: https://www.murciaturistica.es/
+
+背景: 穆尔西亚自治区政府（CARM）官方运作的旅游门户网站。
+
+穆尔西亚自治区政府自然环境与公园管理网 (CARM - Medio Ambiente)
+
+链接: https://murcianatural.carm.es/
+
+背景: 专门管理穆尔西亚大区内自然保护区（包括该盐滩公园）的官方政务与数据库平台。
+
+3. 市级官方机构 (Municipal Level)
+圣佩德罗德尔皮纳塔市政府官网 (Ayuntamiento de San Pedro del Pinatar)
+
+链接: https://www.sanpedrodelpinatar.es/
+
+背景: 当地最高市政行政机构。
+
+圣佩德罗德尔皮纳塔市官方旅游局
+
+链接: https://www.sanpedrodelpinatar.es/turismo/ (或通过市政官网直接链接的旅游板块)
+
+背景: 市政府下属的旅游推广中心。
+
+4. 专业遗产与生态数据库 (Heritage & Ecological Databases)
+由于该公园是极其重要的湿地和鸟类保护区，建议链接以下国际/欧洲官方权威数据库：
+
+拉姆萨尔国际湿地公约数据库 (Ramsar Sites Information Service)
+
+链接: https://rsis.ramsar.org/
+
+背景: 该公园于1994年被列入拉姆萨尔国际重要湿地名录，这是全球最权威的湿地数据库。
+
+欧洲 Natura 2000 保护区网络
+
+链接: https://natura2000.eea.europa.eu/
+
+背景: 欧盟官方环境署（EEA）数据库，该公园属于Natura 2000网络内的特别保护区（SPA）。
