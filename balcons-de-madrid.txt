@@ -1,0 +1,105 @@
+你正在用（Next.js开发）
+为一个新景点【 Balcóns de Madrid 】构建静态/Next.js 单页指南网站。
+页面只需要支持中文和英文双语言
+
+balcons-de-madrid
+西班牙
+加利西亚自治区	Balcóns de Madrid
+Balcóns de Madrid
+4.6(6,402)
+景点
+
+32740 Parada de Sil, Province of Ourense, Spain
+9CRM+CX Parada de Sil, Spain
+
+https://maps.app.goo.gl/TzkkyRH23uWsMYzd9
+
+
+
+首屏背景图要引用以下
+C:\Users\Administrator\Downloads\西班牙\balcons-de-madrid\public\gallery
+
+
+删除原先友情链接，新增以下友情链接
+
+西班牙国家旅游局
+https://www.spain.info/
+萨克拉河岸官方旅游联盟
+https://turismo.ribeirasacra.org/
+西班牙国家自然步道网络库
+https://www.mapa.gob.es/es/desarrollo-rural/temas/caminos-naturales/
+帕拉达德西尔市政厅
+https://www.paradadesil.es/
+加利西亚旅游局
+https://www.turismo.gal/
+
+
+
+在Google地图上查看位置都跳转为 https://maps.app.goo.gl/TzkkyRH23uWsMYzd9
+页面一共四个链接每一个都需要修改
+
+
+照片画廊
+精彩照片 显示照片不全目前只显示8张，需要有显示完整照片显示功能
+检查照片名称是否正确并修正
+
+
+删除 探索更多 板块
+
+
+首屏谷歌地图位置跳转为 https://maps.app.goo.gl/TzkkyRH23uWsMYzd9
+
+照片画廊
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/TzkkyRH23uWsMYzd9
+
+游客评价
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/TzkkyRH23uWsMYzd9
+
+地图位置
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/TzkkyRH23uWsMYzd9
+
+首屏右侧切换中文的时候 网站没转为/zh
+
+新增西班牙语
+
+
+生成一个文件忽略不需要上传的文件
+
+
+
+
+
+
+为您整理了 Balcóns de Madrid（马德里阳台观景台）及周边区域严格从国家级机构向下延伸至地方专业行政与遗产数据库的5个纯正官方政府链接链条。这套结构直接对应了该峡谷独特的“多市镇联合管辖”属性，可以直接作为权威数据源引用：
+
+**1. 国家级：西班牙国家旅游局（Turespaña）**
+
+* **主管政府部门**：西班牙工业与旅游部 (Ministerio de Industria y Turismo)
+* **官方网站**：[spain.info](https://www.spain.info)
+* **数据价值**：提供西班牙国家层面的宏观出入境旅游指引及国家自然景观的跨国界宣传背书。
+
+**2. 大区级：加利西亚自治区官方旅游局（Turismo de Galicia）**
+
+* **主管政府部门**：加利西亚自治区政府 (Xunta de Galicia)
+* **官方网站**：[turismo.gal](https://www.turismo.gal)
+* **数据价值**：全面调度整个加利西亚大区的资源，包含官方设置的“神圣河岸与锡尔河峡谷 (Ribeira Sacra and Canón do Sil)”自然保护空间名录以及自治区级的观鸟生态档案。
+
+**3. 区域/跨市级官方统筹平台：萨克拉河岸官方旅游联盟（Consorcio de Turismo de la Ribeira Sacra）**
+
+* **主管政府部门**：由加利西亚自治区政府、奥伦塞省议会（Deputación de Ourense）、卢戈省议会及包含 Parada de Sil 在内的26个市镇政府联合成立的官方政务同盟。
+* **官方网站**：[turismo.ribeirasacra.org](https://turismo.ribeirasacra.org)
+* **数据价值**：专门负责该峡谷的跨市行政与遗产申报管理。提供峡谷官方游船班次预约、沿河古罗马式修道院开放时间，以及包含 Balcóns de Madrid 在内的观景台确切向导系统。
+
+**4. 专项自然遗产与生态路径数据库：西班牙国家自然步道网络库（Caminos Naturales）**
+
+* **主管政府部门**：西班牙农业、渔业和食品部 (Ministerio de Agricultura, Pesca y Alimentación - MAPA)
+* **官方网站**：[mapa.gob.es/es/desarrollo-rural/temas/caminos-naturales](https://www.mapa.gob.es/es/desarrollo-rural/temas/caminos-naturales/) 或直属项目库 [caminosnaturales.es](https://www.google.com/search?q=https://caminosnaturales.es)
+* **数据价值**：最高标准的国家级地理及农业生态数据库。专项收录了直达或途径 Balcóns de Madrid 的“神圣河岸自然步道 (Ribeira Sacra Nature Trail)”的精确地质参数、高低落差测绘、以及沿途地中海特色植被群落（如软木栎与古栗树林）的官方普查记录。
+
+**5. 地方级基础政务与本地管理库：帕拉达德西尔市政厅（Concello de Parada de Sil）**
+
+* **主管政府部门**：帕拉达德西尔市议会 (Ayuntamiento de Parada de Sil)
+* **官方网站**：[paradadesil.es](https://www.paradadesil.es)
+* **数据价值**：作为观景台所在的直属行政管辖方，代表最底层、最细颗粒度的数据源。专项负责发布本地道路限行/维护通知、本地历史遗产保护名单（如紧邻的 Santa Cristina 修道院遗址）以及直接管辖的市政停车与公共服务状态。
+
+
