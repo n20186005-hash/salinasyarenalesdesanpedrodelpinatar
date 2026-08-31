@@ -180,6 +180,17 @@ export default async function LocaleLayout({
   });
 }`}
         </Script>
+        <Script
+          id="ga4-script"
+          src="https://www.googletagmanager.com/gtag/js?id=G-HXM22WWPKP"
+          strategy="afterInteractive"
+        />
+        <Script id="ga4-init" strategy="afterInteractive">
+          {`window.dataLayer = window.dataLayer || [];
+function gtag() { dataLayer.push(arguments); }
+gtag('js', new Date());
+gtag('config', 'G-HXM22WWPKP');`}
+        </Script>
       </body>
     </html>
   );
