@@ -1,16 +1,17 @@
 import { useTranslations } from 'next-intl';
+import { siteConfig } from '@/config/site';
 
 export default function Hero() {
   const t = useTranslations('hero');
-  const MAPS_URL = 'https://maps.app.goo.gl/evq26chDcWZXhCYn7';
+  const MAPS_URL = siteConfig.mapsUrl;
 
   return (
     <section className="relative min-h-screen flex items-end pb-16 sm:pb-24 overflow-hidden">
       {/* Background image */}
       <div className="absolute inset-0">
         <img
-          src="/gallery/salinas-1.jpg"
-          alt="Salinas y Arenales de San Pedro del Pinatar"
+          src={siteConfig.heroImage}
+          alt={t('imageAlt')}
           className="w-full h-full object-cover"
         />
         <div className="absolute inset-0" style={{ background: 'var(--hero-overlay)' }} />

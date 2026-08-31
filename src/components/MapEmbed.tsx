@@ -1,6 +1,7 @@
 import { useTranslations } from 'next-intl';
+import { siteConfig } from '@/config/site';
 
-const MAPS_URL = 'https://maps.app.goo.gl/evq26chDcWZXhCYn7';
+const MAPS_URL = siteConfig.mapsUrl;
 
 export default function MapEmbed() {
   const t = useTranslations('mapSection');
@@ -27,13 +28,13 @@ export default function MapEmbed() {
             This is for visual cleanliness only. Google's Terms of Service apply.
           */}
           <iframe
-            src="https://maps.google.com/maps?q=Salinas+y+Arenales+de+San+Pedro+del+Pinatar+Murcia+Spain&output=embed"
+            src={siteConfig.mapsEmbedSrc}
             width="100%"
             height="450"
             style={{ border: 0 }}
             allowFullScreen
             loading="lazy"
-            referrerPolicy="no-referrer-when-downgrade"
+            referrerPolicy="strict-origin-when-cross-origin"
             title="Google Maps - Salinas y Arenales de San Pedro del Pinatar"
           />
         </div>
@@ -59,6 +60,23 @@ export default function MapEmbed() {
             </svg>
           </a>
         </div>
+
+        {/* 官方权威门户链接 */}
+        <p
+          className="mt-6 text-center text-sm leading-relaxed"
+          style={{ color: 'var(--text-muted)' }}
+        >
+          {t('officialPortalIntro')}{' '}
+          <a
+            href={siteConfig.govtTourismUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="font-medium hover:underline"
+            style={{ color: 'var(--accent)' }}
+          >
+            {t('officialPortal')}
+          </a>
+        </p>
       </div>
     </section>
   );

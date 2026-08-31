@@ -2,8 +2,9 @@
 
 import { useTranslations, useMessages } from 'next-intl';
 import { useState, useCallback } from 'react';
+import { siteConfig } from '@/config/site';
 
-const MAPS_URL = 'https://maps.app.goo.gl/evq26chDcWZXhCYn7';
+const MAPS_URL = siteConfig.mapsUrl;
 
 const photos = [
   { src: '/gallery/salinas-1.jpg', alt: 'Salinas y Arenales Photo 1' },

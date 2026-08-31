@@ -1,6 +1,7 @@
 import { setRequestLocale } from 'next-intl/server';
 import type { Metadata } from 'next';
 import CookieSettingsClient from './CookieSettingsClient';
+import { siteConfig } from '@/config/site';
 
 export async function generateMetadata({
   params,
@@ -8,7 +9,7 @@ export async function generateMetadata({
   params: Promise<{ locale: string }>;
 }): Promise<Metadata> {
   const { locale } = await params;
-  const baseUrl = 'https://salinasyarenalesdesanpedrodelpinatar.com';
+  const baseUrl = siteConfig.baseUrl;
   const esUrl = `${baseUrl}/es/cookie-settings`;
   const enUrl = `${baseUrl}/en/cookie-settings`;
   const zhUrl = `${baseUrl}/zh/cookie-settings`;

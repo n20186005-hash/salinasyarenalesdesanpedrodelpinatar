@@ -1,4 +1,5 @@
 import { useTranslations, useMessages } from 'next-intl';
+import { siteConfig } from '@/config/site';
 
 function Stars({ count }: { count: number }) {
   return (
@@ -19,7 +20,7 @@ function Stars({ count }: { count: number }) {
   );
 }
 
-const MAPS_URL = 'https://maps.app.goo.gl/evq26chDcWZXhCYn7';
+const MAPS_URL = siteConfig.mapsUrl;
 
 export default function Reviews() {
   const t = useTranslations('reviews');

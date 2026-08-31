@@ -1,10 +1,15 @@
 {
   "meta": {
-    "title": "Salinas y Arenales de San Pedro del Pinatar",
-    "description": "Guía completa de las Salinas y Arenales de San Pedro del Pinatar. Conoce este parque natural, su ubicación, información de visita y consejos de viaje."
+    "title": "Parque Regional de las Salinas y Arenales de San Pedro del Pinatar (San Pedro del Pinatar) - Guía del Visitante y Ubicación",
+    "description": "Descubre el Parque Regional de las Salinas y Arenales de San Pedro del Pinatar, el emblemático espacio natural en San Pedro del Pinatar, Región de Murcia, España. Consulta el mapa de ubicación, la información de visita, los alrededores como el Mar Menor y la Playa de la Llana, y consejos de viaje."
   },
   "header": {
+    "brand": "Salinas y Arenales",
     "home": "Inicio",
+    "history": "Historia",
+    "bestTime": "Temporadas",
+    "birding": "Aves",
+    "facilities": "Servicios",
     "gallery": "Galería",
     "reviews": "Reseñas",
     "map": "Mapa",
@@ -14,13 +19,14 @@
     "title": "Salinas y Arenales de San Pedro del Pinatar",
     "subtitle": "Parque Natural · Murcia, España",
     "rating": "4.6",
-    "reviewCount": "12.395 reseñas",
+    "reviewCount": "12.499 reseñas",
     "type": "Parque Natural",
-    "openMaps": "Ver en Google Maps"
+    "openMaps": "Ver en Google Maps",
+    "imageAlt": "Parque Regional de las Salinas y Arenales de San Pedro del Pinatar - Vista principal en San Pedro del Pinatar, España"
   },
   "intro": {
     "title": "Descubre las Salinas y Arenales",
-    "description": "El Parque Regional de las Salinas y Arenales de San Pedro del Pinatar es una impresionante reserva natural situada en la Región de Murcia, España. Este ecosistema único combina salinas, dunas costeras y hábitats mediterráneos, convirtiéndolo en un paraíso para los amantes de la naturaleza y la observación de aves.",
+    "description": "Bienvenido al Parque Regional de las Salinas y Arenales de San Pedro del Pinatar, ampliamente reconocido como las Salinas y Arenales de San Pedro del Pinatar. Situado en el corazón de San Pedro del Pinatar, en la Región de Murcia, España, este destino es el epicentro natural para los viajeros que visitan la zona. Este ecosistema único combina salinas, dunas costeras y hábitats mediterráneos, convirtiéndolo en un paraíso para los amantes de la naturaleza y la observación de aves.",
     "visitGuide": {
       "title": "Consejos de Visita",
       "items": [
@@ -67,8 +73,140 @@
         "id": "facilities",
         "title": "Instalaciones para Visitantes",
         "content": "El parque cuenta con varios puntos de observación, senderos peatonales y un centro de interpretación. Hay paneles informativos a lo largo de las rutas, y se ofrecen visitas guiadas bajo solicitud."
+      },
+      {
+        "id": "nearby",
+        "title": "Alrededores y Puntos de Interés",
+        "content": "Al visitar el Parque Regional de las Salinas y Arenales de San Pedro del Pinatar, los visitantes pueden explorar fácilmente los hitos naturales cercanos, incluidos el Mar Menor, la laguna costera más grande de Europa, y la Playa de la Llana, una extensión de dunas protegidas frente al mar Mediterráneo."
       }
     ]
+  },
+  "birding": {
+    "title": "Guía de observación de aves: especies y temporadas",
+    "subtitle": "Uno de los humedales ornitológicos más importantes del Mediterráneo occidental, con más de 130 especies registradas al año",
+    "speciesHeader": "Especies representativas",
+    "intro": "Las aves presentes cambian notablemente con las estaciones. La tabla muestra la situación estacional típica de las especies más comunes: 'Frecuente' significa que es fácil verlas en esa estación. La presencia varía según el nivel del agua y el año; consulta sobre el terreno.",
+    "legend": {
+      "common": "Frecuente",
+      "rare": "Escasa",
+      "absent": "Ausente"
+    },
+    "seasonLabels": ["Prim", "Ver", "Oto", "Inv"],
+    "species": [
+      {
+        "name": "Flamenco común",
+        "nameLocal": "Phoenicopterus roseus",
+        "seasons": ["rare", "rare", "common", "common"]
+      },
+      {
+        "name": "Avoceta común",
+        "nameLocal": "Recurvirostra avosetta",
+        "seasons": ["common", "rare", "common", "rare"]
+      },
+      {
+        "name": "Cigüeñuela común",
+        "nameLocal": "Himantopus himantopus",
+        "seasons": ["common", "common", "rare", "absent"]
+      },
+      {
+        "name": "Charrancito común",
+        "nameLocal": "Sternula albifrons",
+        "seasons": ["common", "common", "rare", "absent"]
+      },
+      {
+        "name": "Garceta común",
+        "nameLocal": "Egretta garzetta",
+        "seasons": ["common", "common", "common", "common"]
+      },
+      {
+        "name": "Gaviota reidora",
+        "nameLocal": "Chroicocephalus ridibundus",
+        "seasons": ["common", "common", "common", "common"]
+      },
+      {
+        "name": "Águila pescadora",
+        "nameLocal": "Pandion haliaetus",
+        "seasons": ["rare", "absent", "common", "rare"]
+      },
+      {
+        "name": "Ostrero euroasiático",
+        "nameLocal": "Haematopus ostralegus",
+        "seasons": ["common", "rare", "common", "rare"]
+      }
+    ],
+    "tip": "Consejos: al amanecer y al atardecer las aves están más activas. Guarda silencio, usa prismáticos o teleobjetivo, no alimentes ni molestes a las aves, y permanece en senderos y observatorios."
+  },
+  "history": {
+    "title": "Historia y Leyendas",
+    "subtitle": "De las salinas romanas al humedal protegido internacional de hoy",
+    "eras": [
+      {
+        "period": "Antigüedad · Época fenicia y romana",
+        "title": "Los inicios de la sal",
+        "content": "La sal fue uno de los primeros bienes comerciales de la humanidad, llamada 'oro blanco' por los romanos. La evidencia arqueológica muestra que ya en época romana se producía sal en estas marismas costeras. Las calzadas romanas unían el interior con esta costa, y desde aquí la sal se distribuía por todo el Imperio."
+      },
+      {
+        "period": "Edad Media · Época andalusí",
+        "title": "El auge de la tecnología salinera",
+        "content": "Durante Al-Ándalus, los ingenieros andalusíes trajeron técnicas avanzadas de riego y evaporación, transformando las antiguas marismas en un sistema ordenado de balsas de evaporación. El propio nombre 'Salinas' nació de esta larga tradición local inseparable de la producción de sal."
+      },
+      {
+        "period": "Siglos XVI–XVIII · Monopolio real",
+        "title": "El 'impuesto de la sal' de la Corona",
+        "content": "En la Baja Edad Media y la Edad Moderna la sal fue un monopolio real en el Reino de Castilla. Las salinas de San Pedro del Pinatar funcionaban como salina real y constituían una importante fuente de ingresos para la Corona. El transporte y la venta de sal estaban estrictamente controlados, y contrabandearla era un delito grave."
+      },
+      {
+        "period": "Siglos XIX–XX · Industrialización",
+        "title": "La sal moderna y el pueblo costero",
+        "content": "Desde el siglo XIX la producción de sal se industrializó y creció con fuerza. Alrededor de las salinas y de la pesca, San Pedro del Pinatar pasó de ser una aldea de pescadores a un pueblo costero. Los salineros, pescadores y marineros forman la memoria social más antigua de la zona."
+      },
+      {
+        "period": "1985",
+        "title": "El nacimiento del Parque Regional",
+        "content": "Para proteger este mosaico único de salinas, dunas y humedales, el Gobierno Regional de Murcia declaró la zona 'Parque Regional' en 1985, entre las primeras áreas protegidas de España centradas en humedales salineros."
+      },
+      {
+        "period": "1994 – Actualidad",
+        "title": "Protección internacional de humedales",
+        "content": "En 1994 el parque fue incluido en la Convención de Ramsar como Humedal de Importancia Internacional, y además forma parte de la red Natura 2000 de la UE (Zona de Especial Protección para las Aves, ZEPA, y Lugar de Importancia Comunitaria, LIC). Hoy es uno de los hábitats de flamencos y aves migratorias más importantes del litoral mediterráneo occidental."
+      }
+    ],
+    "legend": {
+      "title": "Nombres y leyendas locales",
+      "nameOrigin": "El 'San Pedro' y el 'pinar' del nombre del pueblo",
+      "nameOriginContent": "'San Pedro' alude al patrón de los pescadores en la tradición católica: localmente, los pescadores le rezaban antes de hacerse a la mar, y las Fiestas de San Pedro de finales de junio siguen siendo la celebración más animada del pueblo. 'Pinatar' procede del latín 'pinus' (pino), en referencia a los pinares y dunas costeros. Juntos, 'el pinar de San Pedro', resumen el doble carácter pesquero y natural de esta costa.",
+      "saltLegend": "La leyenda del 'oro blanco' de las salinas",
+      "saltLegendContent": "Entre los salineros corre desde hace generaciones un dicho: 'la sal es el sudor que deja el sol'. Cuenta la leyenda que en pleno verano el sol vuelca su calor en las balsas y los cristales de sal crecen en el fondo como nieve; la familia que logra recoger sus balsas antes del otoño obtiene una sal más blanca y de mejor precio. Romántico o no, el relato refleja el enorme valor que esta comunidad daba a la sal, el pulmón económico de esta costa durante siglos.",
+      "note": "Nota: Estas leyendas son tradición oral local, compartidas aquí solo como referencia cultural."
+    }
+  },
+  "saltMaking": {
+    "title": "Cómo se hace la sal: el funcionamiento de las salinas",
+    "subtitle": "Convertir agua de mar en sal con el sol, el viento y una antigua 'línea de concentración'",
+    "intro": "Las salinas de este parque siguen utilizando el método tradicional de evaporación solar: el agua del mar circula por una serie de balsas poco profundas, se evapora y se concentra, y finalmente cristaliza en sal, casi en su totalidad con energía natural.",
+    "steps": [
+      {
+        "title": "Entrada del agua de mar",
+        "content": "Aprovechando las mareas o los molinos tradicionales, el agua del Mar Menor o del Mediterráneo se lleva a los primeros estanques, donde se decanta y se clarifica."
+      },
+      {
+        "title": "Concentración por evaporación",
+        "content": "El agua pasa por sucesivas balsas poco profundas. Con gran superficie y poca profundidad, el sol y el viento aceleran la evaporación, elevando la salinidad desde el 3,5 % del mar hasta casi la saturación."
+      },
+      {
+        "title": "Cristalización",
+        "content": "Cuando la salmuera está casi saturada, pasa a las balsas cristalizadoras más someras. Al seguir evaporándose el agua, el cloruro de sodio cristaliza primero y forma una sal blanca como la nieve en el fondo."
+      },
+      {
+        "title": "Recolección y montones de sal",
+        "content": "Los salineros recogen los cristales con rastrillos de madera y los amontonan al borde de la balsa para escurrir y secar antes de envasar. La recolección suele realizarse desde el verano hasta principios de otoño."
+      },
+      {
+        "title": "Un ecosistema compartido",
+        "content": "Las balsas son también humedal: las distintas salinidades albergan algas halófilas, artemia y plantas tolerantes a la sal, que tiñen algunas balsas de rosa y atraen a los flamencos a alimentarse."
+      }
+    ],
+    "note": "Nota: El funcionamiento exacto de la salina y las zonas abiertas al público pueden variar; consulta sobre el terreno o en fuentes oficiales."
   },
   "basicInfo": {
     "title": "Información Básica",
@@ -81,7 +219,7 @@
     "city": "Ciudad",
     "cityValue": "San Pedro del Pinatar, Murcia",
     "googleRating": "Valoración de Google",
-    "googleRatingValue": "4.6 (12.395)",
+    "googleRatingValue": "4.6 (12.499)",
     "address": "Dirección",
     "addressValue": "30740 San Pedro del Pinatar, Murcia, España",
     "plusCode": "Plus Code",
@@ -97,6 +235,53 @@
     "bestTimeAutumn": "Otoño: Migración de aves, hermosos atardeceres",
     "bestTimeWinter": "Invierno: Clima templado, ideal para caminar",
     "tip": "El parque está abierto las 24 horas. La mejor observación de aves es durante las primeras horas de la mañana o al atardecer."
+  },
+  "bestTime": {
+    "title": "Estación a estación: cuándo visitar",
+    "subtitle": "La observación de aves, la fotografía y la playa tienen cada una su mejor momento",
+    "seasonHeader": "Temporada",
+    "rowLabels": {
+      "birding": "Observación de aves",
+      "photography": "Fotografía",
+      "beach": "Playa y baño",
+      "crowds": "Afluencia",
+      "weather": "Clima"
+    },
+    "seasons": [
+      {
+        "season": "Primavera (mar–may)",
+        "birding": "Pico de migración primaveral: más especies del año",
+        "photography": "Luz suave, vegetación verde y floración",
+        "beach": "Mar aún fresco; ideal para paseos costeros",
+        "crowds": "Moderada",
+        "weather": "Cálido y agradable, con brisa marina"
+      },
+      {
+        "season": "Verano (jun–ago)",
+        "birding": "Temporada de cría; mejor a primera hora",
+        "photography": "Sol intenso; mejor luz rasante al amanecer y atardecer",
+        "beach": "Mejor temporada para bañarse",
+        "crowds": "La más alta del año; llega pronto",
+        "weather": "Caluroso y seco: usa protección solar e hidrátate"
+      },
+      {
+        "season": "Otoño (sep–nov)",
+        "birding": "Pico de migración otoñal; llegan los flamencos",
+        "photography": "Luz dorada y atardeceres preciosos",
+        "beach": "Agua aún templada; baja la afluencia",
+        "crowds": "Moderada",
+        "weather": "Suave y confortable"
+      },
+      {
+        "season": "Invierno (dic–feb)",
+        "birding": "Mejor temporada para flamencos y aves invernantes",
+        "photography": "Aire limpio; sol bajo ideal para teleobjetivo",
+        "beach": "No para bañarse; perfecto para caminatas costeras",
+        "crowds": "Mínima, el momento más tranquilo",
+        "weather": "Fresco y algo ventoso, todavía bueno para el aire libre"
+      }
+    ],
+    "note": "Nota: Son pautas generales; las aves y el clima varían cada año. Consulta previsiones y fuentes oficiales antes de viajar."
   },
   "tickets": {
     "title": "Información de Entrada",
@@ -132,6 +317,46 @@
       "Continúa hacia las dunas de la Playa de la Llana",
       "Termina en el mirador norte para las vistas del atardecer"
     ]
+  },
+  "trails": {
+    "title": "Senderos de un vistazo y dificultad",
+    "subtitle": "Elige una ruta según tu tiempo y forma física",
+    "intro": "El parque es mayormente llano, entre salinas y dunas, por lo que la mayoría de senderos son fáciles. Estas son las rutas habituales: longitudes y tiempos son aproximados; sigue siempre la señalización sobre el terreno.",
+    "difficulty": {
+      "easy": "Fácil",
+      "moderate": "Moderada"
+    },
+    "trails": [
+      {
+        "name": "Circuito de las salinas (Ruta Salinera)",
+        "length": "aprox. 2 km",
+        "time": "40–60 min",
+        "difficulty": "easy",
+        "desc": "Sale junto al centro de interpretación y rodea las balsas para ver la elaboración tradicional de la sal, pasando por varios observatorios. Es la ruta de iniciación más popular."
+      },
+      {
+        "name": "Sendero costero de la Llana (Camino de la Llana)",
+        "length": "aprox. 3 km (ida)",
+        "time": "1–1,5 horas",
+        "difficulty": "easy",
+        "desc": "Discurre entre las dunas costeras hasta la Playa de la Llana, frente al Mediterráneo. Caminar sobre arena cuesta algo más, pero las vistas y los atardeceres son magníficos."
+      },
+      {
+        "name": "Mirador del Cabezo de la Fuente",
+        "length": "aprox. 1–2 km",
+        "time": "30–45 min",
+        "difficulty": "moderate",
+        "desc": "Sube a la pequeña colina del parque para disfrutar de vistas panorámicas de las salinas, las lagunas y el Mar Menor. Algo de desnivel; ideal para los que gustan de las alturas."
+      },
+      {
+        "name": "Ruta del molino y del litoral (Molino de Quintín)",
+        "length": "aprox. 4 km",
+        "time": "1,5–2 horas",
+        "difficulty": "easy",
+        "desc": "Une el molino salinero tradicional, los observatorios y el litoral del Mar Menor, con abundantes paneles informativos; perfecta para familias a pie o en bici."
+      }
+    ],
+    "note": "Consejo: en verano sal temprano para evitar el calor; los caminos arenosos pueden resbalar tras la lluvia: calzado con buen agarre y agua."
   },
   "photoSpots": {
     "title": "Mejores Lugares para Fotografía",
@@ -229,7 +454,146 @@
   "mapSection": {
     "title": "Ubicación en el Mapa",
     "subtitle": "30740 San Pedro del Pinatar, Murcia, España",
-    "openMaps": "Ver en Google Maps"
+    "openMaps": "Ver en Google Maps",
+    "officialPortalIntro": "Para obtener actualizaciones oficiales e información turística regional, visita el",
+    "officialPortal": "Portal Oficial de Turismo de la Región de Murcia"
+  },
+  "facilities": {
+    "title": "Servicios e Instalaciones para Visitantes",
+    "subtitle": "Tipos de servicios de forma neutral y objetiva, sin recomendar negocios concretos",
+    "intro": "A continuación se indican los tipos de servicios habituales dentro y alrededor del parque. La disponibilidad puede variar; consulta siempre sobre el terreno o en fuentes oficiales.",
+    "items": [
+      {
+        "id": "restrooms",
+        "title": "Aseos públicos (WC)",
+        "desc": "Hay aseos públicos cerca de las entradas principales, del centro de interpretación y de algunos observatorios. En verano y en horas punta pueden estar muy concurridos.",
+        "tip": "Consejo: algunos tramos remotos de senderos no tienen aseos; planifica la visita."
+      },
+      {
+        "id": "parking",
+        "title": "Aparcamiento",
+        "desc": "El parque cuenta con varias zonas de aparcamiento gratuito, incluido el aparcamiento principal junto al centro de interpretación. Los fines de semana y en verano se llenan rápido; llega pronto.",
+        "tip": "Consejo: no aparques sobre la arena ni fuera de las zonas señalizadas para evitar quedarte atascado o dañar las dunas."
+      },
+      {
+        "id": "dining",
+        "title": "Restauración",
+        "desc": "Dentro del parque no hay restaurantes. En el pueblo de San Pedro del Pinatar y en el paseo marítimo hay una amplia oferta de restaurantes mediterráneos, cafeterías, bares y heladerías.",
+        "tip": "Consejo: en la mayor parte del parque no se permiten hogueras ni comidas grandes; llévate la basura."
+      },
+      {
+        "id": "lodging",
+        "title": "Alojamiento",
+        "desc": "San Pedro del Pinatar y el barrio costero de Lo Pagán ofrecen varios tipos de alojamiento: hoteles, apartahoteles, apartamentos turísticos y casas de huéspedes, para todos los presupuestos.",
+        "tip": "Consejo: el verano es temporada alta; se recomienda reservar con antelación."
+      },
+      {
+        "id": "shopping",
+        "title": "Supermercados y servicios cotidianos",
+        "desc": "El centro del pueblo cuenta con supermercados, panaderías, carnicerías, farmacias y tiendas de conveniencia donde comprar agua, comida y protección solar.",
+        "tip": "Consejo: en las farmacias (Farmacia) puedes encontrar protector solar y repelente de insectos."
+      },
+      {
+        "id": "fuel",
+        "title": "Combustible y carga eléctrica",
+        "desc": "Hay gasolineras en el pueblo y a lo largo de la AP-7 / RM-3, varias con tienda de conveniencia. Los conductores de vehículos eléctricos pueden encontrar puntos de recarga públicos en el pueblo y en las zonas urbanas cercanas.",
+        "tip": "Consejo: reposta antes de entrar al parque; en las carreteras rurales hay pocas gasolineras."
+      }
+    ]
+  },
+  "myths": {
+    "title": "Mitos frecuentes y realidades",
+    "subtitle": "Sobre las salinas y el parque: ¿es cierto o no?",
+    "mythLabel": "Mito",
+    "factLabel": "Realidad",
+    "items": [
+      {
+        "myth": "\"El agua de las salinas es rosa porque le añaden colorante.\"",
+        "fact": "No. El color rosa lo producen las algas halófilas (Dunaliella salina) y microorganismos tolerantes a la sal presentes en el agua muy salina; sus pigmentos naturales tiñen las balsas y el color se intensifica con la salinidad."
+      },
+      {
+        "myth": "\"Si voy, seguro que veo la laguna rosa.\"",
+        "fact": "No siempre. El rosa se aprecia sobre todo en la fase de evaporación/concentración (generalmente de verano a principios de otoño) y depende del nivel del agua y la temperatura. Las salinas tienen mucho que ver todo el año; el rosa es solo un aliciente."
+      },
+      {
+        "myth": "\"El parque cobra entrada.\"",
+        "fact": "No. El parque es gratuito y está abierto a todo el público todo el año; algunas actividades guiadas organizadas por las autoridades son independientes de la entrada."
+      },
+      {
+        "myth": "\"Se puede caminar libremente por las dunas y las balsas.\"",
+        "fact": "No. Las balsas son zonas de producción y ecológicas, en su mayoría cerradas al público, y la vegetación dunar es frágil. Permanece en los senderos y miradores para proteger el hábitat de las aves."
+      },
+      {
+        "myth": "\"Los flamencos están aquí todo el año.\"",
+        "fact": "Los flamencos son sobre todo aves migratorias e invernantes, más numerosos en otoño e invierno y menos en primavera y verano. Para ver grandes grupos, visita en invierno o durante las migraciones."
+      },
+      {
+        "myth": "\"Se puede nadar directamente en las balsas de sal.\"",
+        "fact": "No. Las balsas son instalaciones de producción y está prohibido bañarse. Báñate en playas adecuadas, como la Playa de la Llana o la orilla del Mar Menor."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "items": [
+      {
+        "q": "¿Dónde se encuentra el Parque Regional de las Salinas y Arenales de San Pedro del Pinatar?",
+        "a": "Se encuentra en San Pedro del Pinatar, Región de Murcia, España (código postal 30740), entre la laguna del Mar Menor y el mar Mediterráneo."
+      },
+      {
+        "q": "¿Es gratuita la visita a las Salinas y Arenales de San Pedro del Pinatar?",
+        "a": "Sí, el acceso al parque es libre y gratuito durante todo el año, abierto las 24 horas."
+      },
+      {
+        "q": "¿Qué aves se pueden observar en el parque?",
+        "a": "Se pueden observar más de 130 especies de aves a lo largo del año, como flamencos, avocetas, charranes y gaviotas, especialmente durante las migraciones de primavera y otoño."
+      },
+      {
+        "q": "¿Hay aseos y restaurantes dentro del parque?",
+        "a": "Hay aseos públicos cerca de las entradas principales y del centro de interpretación, pero dentro del parque no hay restaurantes. La restauración, el alojamiento, los supermercados y otros servicios cotidianos se concentran en el pueblo de San Pedro del Pinatar y la zona del paseo marítimo, con una amplia variedad de opciones."
+      },
+      {
+        "q": "Además de flamencos, ¿qué más se puede ver en el parque?",
+        "a": "En el parque se registran más de 130 especies de aves al año. Además de flamencos, se pueden ver avocetas, cigüeñuelas, charranes, garcetas y varias gaviotas, junto con reptiles y anfibios en las dunas, y extensas plantas halófilas y matorral mediterráneo."
+      },
+      {
+        "q": "¿Es adecuado el parque para familias con niños o personas con movilidad reducida?",
+        "a": "Sí. El parque cuenta con varios senderos llanos y fáciles, y desde el aparcamiento principal se accede sin complicaciones al centro de interpretación y a los observatorios. Los caminos arenosos pueden cansar más, por lo que conviene preguntar en el centro de interpretación o consultar la información oficial de senderos para elegir una ruta adecuada."
+      }
+    ]
+  },
+  "sources": {
+    "title": "Fuentes y referencias",
+    "subtitle": "Los contenidos divulgativos de esta web se basan en fuentes oficiales y de autoridad",
+    "intro": "Para mantener el contenido preciso y neutral, hemos consultado las siguientes fuentes públicas. Haz clic para verificarlas en sus páginas oficiales.",
+    "items": [
+      {
+        "label": "Servicio de Información de Sitios Ramsar",
+        "desc": "La ficha oficial del parque como Humedal de Importancia Internacional (Sitio Ramsar n.º 706).",
+        "url": "https://rsis.ramsar.org/"
+      },
+      {
+        "label": "Red Natura 2000 (UE)",
+        "desc": "Datos oficiales de la Zona de Especial Protección para las Aves (ZEPA) y del Lugar de Importancia Comunitaria (LIC), consultables en el visor Natura 2000 de la EEA.",
+        "url": "https://natura2000.eea.europa.eu/"
+      },
+      {
+        "label": "Gobierno de la Región de Murcia (CARM)",
+        "desc": "Información oficial de gestión, avisos y política ambiental del parque regional.",
+        "url": "https://www.carm.es/"
+      },
+      {
+        "label": "Portal de Turismo de la Región de Murcia",
+        "desc": "Información turística oficial del destino y eventos.",
+        "url": "https://www.murciaturistica.es/"
+      },
+      {
+        "label": "Ayuntamiento de San Pedro del Pinatar",
+        "desc": "Información local, actividades municipales y avisos.",
+        "url": "https://www.sanpedrodelpinatar.es/"
+      }
+    ],
+    "disclaimer": "Este sitio es un proyecto educativo independiente y sin ánimo de lucro, sin vinculación con las instituciones citadas. Los enlaces externos se ofrecen solo para verificación; consulta siempre la información oficial más reciente."
   },
   "footer": {
     "brandName": "Salinas y Arenales de San Pedro del Pinatar",

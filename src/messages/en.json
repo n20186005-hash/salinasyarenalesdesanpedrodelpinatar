@@ -1,10 +1,15 @@
 {
   "meta": {
-    "title": "Salinas y Arenales de San Pedro del Pinatar",
-    "description": "Complete guide to Salinas y Arenales de San Pedro del Pinatar. Learn about this natural park, its location, visiting information, and travel tips."
+    "title": "Salinas y Arenales de San Pedro del Pinatar Regional Park (San Pedro del Pinatar) - Visitor Guide & Location",
+    "description": "Discover the Salinas y Arenales de San Pedro del Pinatar Regional Park, the iconic natural landmark in San Pedro del Pinatar, Murcia, Spain. View the location map, visiting details, nearby Mar Menor and Playa de la Llana, and travel tips."
   },
   "header": {
+    "brand": "Salinas y Arenales",
     "home": "Home",
+    "history": "History",
+    "bestTime": "Seasons",
+    "birding": "Birdwatching",
+    "facilities": "Facilities",
     "gallery": "Gallery",
     "reviews": "Reviews",
     "map": "Map",
@@ -14,13 +19,14 @@
     "title": "Salinas y Arenales de San Pedro del Pinatar",
     "subtitle": "Natural Park · Murcia, Spain",
     "rating": "4.6",
-    "reviewCount": "12,395 reviews",
+    "reviewCount": "12,499 reviews",
     "type": "Natural Park",
-    "openMaps": "View on Google Maps"
+    "openMaps": "View on Google Maps",
+    "imageAlt": "Salinas y Arenales de San Pedro del Pinatar Regional Park - Main view in San Pedro del Pinatar, Spain"
   },
   "intro": {
     "title": "Discover Salinas y Arenales de San Pedro del Pinatar",
-    "description": "The Salinas y Arenales de San Pedro del Pinatar Regional Park is a stunning natural reserve located in the Region of Murcia, Spain. This unique ecosystem combines salt flats, sand dunes, and Mediterranean coastal habitats, making it a paradise for birdwatchers and nature lovers.",
+    "description": "Welcome to the Salinas y Arenales de San Pedro del Pinatar Regional Park, widely recognized as the central Salinas y Arenales de San Pedro del Pinatar. Located in the heart of San Pedro del Pinatar, in the Region of Murcia, Spain, this destination is the natural hub for travelers visiting the area. This unique ecosystem combines salt flats, coastal dunes, and Mediterranean habitats, making it a paradise for nature lovers and birdwatchers.",
     "visitGuide": {
       "title": "Visit Tips",
       "items": [
@@ -67,8 +73,140 @@
         "id": "facilities",
         "title": "Visitor Facilities",
         "content": "The park features several observation points, walking trails, and an interpretation center. There are information panels along the routes, and guided tours are available upon request."
+      },
+      {
+        "id": "nearby",
+        "title": "Surroundings & Points of Interest",
+        "content": "When visiting the Salinas y Arenales de San Pedro del Pinatar Regional Park, visitors can easily explore nearby natural landmarks, including the Mar Menor, the largest coastal lagoon in Europe, and Playa de la Llana, a stretch of protected dunes facing the Mediterranean Sea."
       }
     ]
+  },
+  "birding": {
+    "title": "Birdwatching Guide: Species & Seasons",
+    "subtitle": "One of the most important wetland birdwatching sites in the western Mediterranean, with 130+ species recorded yearly",
+    "speciesHeader": "Representative species",
+    "intro": "The birds present change noticeably with the seasons. The table below shows the typical seasonal status of common species — 'Common' means easy to see in that season. Bird numbers vary with water levels and from year to year; check on site.",
+    "legend": {
+      "common": "Common",
+      "rare": "Scarce",
+      "absent": "Absent"
+    },
+    "seasonLabels": ["Spr", "Sum", "Aut", "Win"],
+    "species": [
+      {
+        "name": "Greater Flamingo",
+        "nameLocal": "Phoenicopterus roseus",
+        "seasons": ["rare", "rare", "common", "common"]
+      },
+      {
+        "name": "Pied Avocet",
+        "nameLocal": "Recurvirostra avosetta",
+        "seasons": ["common", "rare", "common", "rare"]
+      },
+      {
+        "name": "Black-winged Stilt",
+        "nameLocal": "Himantopus himantopus",
+        "seasons": ["common", "common", "rare", "absent"]
+      },
+      {
+        "name": "Little Tern",
+        "nameLocal": "Sternula albifrons",
+        "seasons": ["common", "common", "rare", "absent"]
+      },
+      {
+        "name": "Little Egret",
+        "nameLocal": "Egretta garzetta",
+        "seasons": ["common", "common", "common", "common"]
+      },
+      {
+        "name": "Black-headed Gull",
+        "nameLocal": "Chroicocephalus ridibundus",
+        "seasons": ["common", "common", "common", "common"]
+      },
+      {
+        "name": "Osprey",
+        "nameLocal": "Pandion haliaetus",
+        "seasons": ["rare", "absent", "common", "rare"]
+      },
+      {
+        "name": "Eurasian Oystercatcher",
+        "nameLocal": "Haematopus ostralegus",
+        "seasons": ["common", "rare", "common", "rare"]
+      }
+    ],
+    "tip": "Birdwatching tips: early morning and late afternoon are when birds are most active. Stay quiet, use binoculars or a telephoto lens, never feed or disturb the birds, and keep to the trails and hides."
+  },
+  "history": {
+    "title": "History & Legends",
+    "subtitle": "From ancient Roman salt flats to today's internationally protected wetland",
+    "eras": [
+      {
+        "period": "Antiquity · Phoenician & Roman Era",
+        "title": "The Beginnings of Salt Making",
+        "content": "Salt was one of humanity's earliest trade goods, called 'white gold' by the Romans. Archaeological evidence shows that salt was already being produced from the coastal pans here in Roman times. Roman roads linked the interior to this coast, and salt was shipped across the Empire from these flats."
+      },
+      {
+        "period": "Middle Ages · Moorish Period",
+        "title": "The Golden Age of Salt-Pan Technology",
+        "content": "During Al-Andalus, Moorish engineers brought advanced water-management and evaporation techniques, turning the old coastal pans into a systematic network of evaporation ponds. The very name 'Salinas' (salt pans) grew out of this long and inseparable local tradition of salt making."
+      },
+      {
+        "period": "16th–18th Centuries · Royal Monopoly",
+        "title": "The Crown's 'Salt Tax'",
+        "content": "In the late Middle Ages and early modern period, salt was a royal monopoly in the Kingdom of Castile. The salt flats of San Pedro del Pinatar operated as a royal saltern, becoming a significant source of Crown revenue. The transport and sale of salt were tightly controlled, and smuggling it was a serious crime."
+      },
+      {
+        "period": "19th–20th Centuries · Industrialization",
+        "title": "Modern Salt Industry and the Seaside Town",
+        "content": "From the 19th century onward, salt production became industrialized and output grew sharply. Around the salt flats and fishing, San Pedro del Pinatar gradually grew from a fishing hamlet into a coastal town. Salineros (salt workers), fishermen, and sailors form the earliest social memory of the area."
+      },
+      {
+        "period": "1985",
+        "title": "Birth of the Regional Park",
+        "content": "To protect this unique mosaic of salt pans, dunes, and wetlands, the Regional Government of Murcia designated the area a 'Regional Park' (Parque Regional) in 1985 — among the first protected areas in Spain centred on salt-marsh wetlands."
+      },
+      {
+        "period": "1994 – Present",
+        "title": "International Wetland Protection",
+        "content": "In 1994 the park was listed under the Ramsar Convention as a Wetland of International Importance, and it is also part of the EU Natura 2000 network (a Special Protection Area, ZEPA, and a Site of Community Importance, LIC). Today it is one of the most important flamingo and migratory-bird habitats on the western Mediterranean coast."
+      }
+    ],
+    "legend": {
+      "title": "Place Names & Local Legends",
+      "nameOrigin": "'Saint Peter' and the 'Pine Grove' in the Town's Name",
+      "nameOriginContent": "'San Pedro' (Saint Peter) refers to the patron saint of fishermen in Catholic tradition — locally, fishermen traditionally prayed for his protection before setting out to sea, and the Fiestas de San Pedro in late June are still the town's liveliest festival. 'Pinatar' comes from the Latin 'pinus' (pine), referring to the coastal pine groves and dunes. Together, 'Saint Peter's Pine Grove' captures both the fishing and the natural heritage of this coast.",
+      "saltLegend": "The 'White Gold' Legend of the Salt Pans",
+      "saltLegendContent": "An old saying has been passed down among salineros (salt workers) for generations: 'Salt is the sweat left behind by the sun.' Legend has it that at the height of summer the sun pours its warmth into the pans, letting salt crystals grow on the bed like snow — and the family that harvests its pans before autumn gains salt that is especially white and commands the highest price. Romantic as it is, the tale reflects how deeply this community valued its salt, the lifeblood of this coast for centuries.",
+      "note": "Note: These legends are local folklore passed down by word of mouth, shared here for cultural reference only."
+    }
+  },
+  "saltMaking": {
+    "title": "How Salt Is Made: How the Salt Pans Work",
+    "subtitle": "Turning seawater into sea salt with the sun, the wind, and an age-old 'concentration line'",
+    "intro": "The salt pans of this park still use the traditional solar-evaporation method: seawater flows through a series of shallow ponds, evaporates and concentrates, and finally crystallizes into salt — almost entirely powered by natural energy.",
+    "steps": [
+      {
+        "title": "Drawing in the seawater",
+        "content": "Using tides or the traditional windmills, seawater is taken from the Mar Menor or the Mediterranean into the first storage ponds, where it settles and clarifies."
+      },
+      {
+        "title": "Concentration by evaporation",
+        "content": "The water moves through successive shallow ponds. With large surfaces and a thin water layer, sun and wind speed up evaporation, raising salinity from about 3.5% in the sea to near saturation."
+      },
+      {
+        "title": "Crystallization",
+        "content": "When the brine is nearly saturated it is fed into the shallowest crystallization ponds. As the water keeps evaporating, sodium chloride crystallizes first, forming snow-white salt on the bottom."
+      },
+      {
+        "title": "Harvesting and stacking",
+        "content": "Salt workers gather the crystals with wooden rakes and pile them at the edge to drain and dry before bagging. Harvesting usually takes place from summer to early autumn."
+      },
+      {
+        "title": "A shared ecosystem",
+        "content": "The ponds are also wetland habitat: the varying salinities support salt-tolerant algae, brine shrimp, and halophytes — which give some ponds their pink colour and attract flamingos to feed."
+      }
+    ],
+    "note": "Note: The exact workings of the saltern and the areas open to visitors may change — check on site or with official sources."
   },
   "basicInfo": {
     "title": "Basic Information",
@@ -81,7 +219,7 @@
     "city": "City",
     "cityValue": "San Pedro del Pinatar, Murcia",
     "googleRating": "Google Rating",
-    "googleRatingValue": "4.6 (12,395)",
+    "googleRatingValue": "4.6 (12,499)",
     "address": "Address",
     "addressValue": "30740 San Pedro del Pinatar, Murcia, Spain",
     "plusCode": "Plus Code",
@@ -97,6 +235,53 @@
     "bestTimeAutumn": "Autumn: Bird migration, beautiful sunsets",
     "bestTimeWinter": "Winter: Mild weather, ideal for walking",
     "tip": "The park is open 24/7. The best birdwatching is during early morning or late afternoon."
+  },
+  "bestTime": {
+    "title": "Season by Season: When to Visit",
+    "subtitle": "Birdwatching, photography, and beach days each have their own best time",
+    "seasonHeader": "Season",
+    "rowLabels": {
+      "birding": "Birdwatching",
+      "photography": "Photography",
+      "beach": "Beach & Swimming",
+      "crowds": "Crowds",
+      "weather": "Weather"
+    },
+    "seasons": [
+      {
+        "season": "Spring (Mar–May)",
+        "birding": "Spring migration peak — the most species of the year",
+        "photography": "Soft light, fresh green vegetation, blooming flowers",
+        "beach": "Sea still cool; great for coastal walks and views",
+        "crowds": "Moderate",
+        "weather": "Warm and pleasant, occasional sea breeze"
+      },
+      {
+        "season": "Summer (Jun–Aug)",
+        "birding": "Breeding season for residents; best early morning",
+        "photography": "Strong sun; low-angle light at sunrise and sunset is best",
+        "beach": "Best season for swimming",
+        "crowds": "Busiest of the year; arrive early",
+        "weather": "Hot and dry — use sun protection and stay hydrated"
+      },
+      {
+        "season": "Autumn (Sep–Nov)",
+        "birding": "Autumn migration peak; flamingos arriving",
+        "photography": "Golden light and beautiful sunsets",
+        "beach": "Sea still warm; crowds drop noticeably",
+        "crowds": "Moderate",
+        "weather": "Mild and comfortable"
+      },
+      {
+        "season": "Winter (Dec–Feb)",
+        "birding": "Best season for flamingos and wintering birds",
+        "photography": "Clear air; low sun is great for telephoto shots",
+        "beach": "Not for swimming; ideal for coastal walks",
+        "crowds": "Fewest — the quietest time",
+        "weather": "Cool with occasional wind, still good for the outdoors"
+      }
+    ],
+    "note": "Note: These are general patterns; bird numbers and weather vary each year. Check forecasts and official sources before you go."
   },
   "tickets": {
     "title": "Admission Information",
@@ -132,6 +317,46 @@
       "Continue to the dunes of Playa de la Llana",
       "End at the northern lookout point for sunset views"
     ]
+  },
+  "trails": {
+    "title": "Trails at a Glance & Difficulty",
+    "subtitle": "Choose a route that fits your time and fitness",
+    "intro": "The park is mostly flat salt pans and dunes, so most paths are easy. Below are the common route types — lengths and times are approximate; always follow the signs on site.",
+    "difficulty": {
+      "easy": "Easy",
+      "moderate": "Moderate"
+    },
+    "trails": [
+      {
+        "name": "Salt Pan Loop (Ruta Salinera)",
+        "length": "about 2 km",
+        "time": "40–60 min",
+        "difficulty": "easy",
+        "desc": "Start near the interpretation center and circle the ponds to watch traditional salt making, passing several bird hides. The most popular introductory route."
+      },
+      {
+        "name": "Llana Coastal Trail (Camino de la Llana)",
+        "length": "about 3 km one way",
+        "time": "1–1.5 hours",
+        "difficulty": "easy",
+        "desc": "Runs along the coastal dunes to Playa de la Llana facing the Mediterranean. Walking on sand takes a bit more effort, but the views and sunsets are superb."
+      },
+      {
+        "name": "Cabezo de la Fuente Lookout",
+        "length": "about 1–2 km",
+        "time": "30–45 min",
+        "difficulty": "moderate",
+        "desc": "Climb the park's small hill for panoramic views over the salt pans, lagoons, and the Mar Menor. Some elevation gain; great for those who like heights."
+      },
+      {
+        "name": "Windmill & Seafront Loop (Molino de Quintín)",
+        "length": "about 4 km",
+        "time": "1.5–2 hours",
+        "difficulty": "easy",
+        "desc": "Links the traditional salt windmill, bird hides, and the Mar Menor seafront, with plenty of info panels — great for families on foot or by bike."
+      }
+    ],
+    "note": "Tip: in summer start early to avoid the heat; sandy paths can be slippery after rain — wear grippy shoes and carry water."
   },
   "photoSpots": {
     "title": "Top Photo Spots",
@@ -229,7 +454,146 @@
   "mapSection": {
     "title": "Map Location",
     "subtitle": "30740 San Pedro del Pinatar, Murcia, Spain",
-    "openMaps": "View on Google Maps"
+    "openMaps": "View on Google Maps",
+    "officialPortalIntro": "For official updates and regional tourism information, visit the",
+    "officialPortal": "Official Tourism Portal of the Region of Murcia"
+  },
+  "facilities": {
+    "title": "Visitor Facilities & Services",
+    "subtitle": "Neutral, objective facility types — no specific businesses are recommended",
+    "intro": "Below are the common types of services available in and around the park. Availability may vary; always check on site or with official sources.",
+    "items": [
+      {
+        "id": "restrooms",
+        "title": "Public Restrooms (WC)",
+        "desc": "Public restrooms are available near the main entrances, the interpretation center, and some birdwatching points. During peak summer hours they can get busy.",
+        "tip": "Tip: Some remote trail sections have no restrooms — plan ahead."
+      },
+      {
+        "id": "parking",
+        "title": "Parking",
+        "desc": "The park has several free parking areas, including a main lot near the interpretation center. Spaces fill quickly on weekends and in summer, so arrive early.",
+        "tip": "Tip: Never park on sand or outside designated areas — you may get stuck or damage the dunes."
+      },
+      {
+        "id": "dining",
+        "title": "Dining",
+        "desc": "There are no restaurants inside the park. The town of San Pedro del Pinatar and the seafront boulevard offer a wide choice of Mediterranean restaurants, cafés, snack bars, and ice-cream shops.",
+        "tip": "Tip: Open fires and large picnics are not allowed in most of the park — take your rubbish with you."
+      },
+      {
+        "id": "lodging",
+        "title": "Accommodation",
+        "desc": "San Pedro del Pinatar and the Lo Pagán seaside district offer several types of accommodation, from hotels and aparthotels to holiday apartments and guesthouses, across all budgets.",
+        "tip": "Tip: Summer is high season — booking in advance is strongly recommended."
+      },
+      {
+        "id": "shopping",
+        "title": "Supermarkets & Everyday Services",
+        "desc": "The town center has supermarkets, bakeries, butcher shops, pharmacies, and convenience stores where visitors can stock up on water, food, and sun protection.",
+        "tip": "Tip: Pharmacies (Farmacia) are good places for sunscreen and insect repellent."
+      },
+      {
+        "id": "fuel",
+        "title": "Fuel & EV Charging",
+        "desc": "Petrol stations are available in town and along the AP-7 / RM-3 roads, several with convenience stores. EV drivers can find public charging points in town and in nearby urban areas.",
+        "tip": "Tip: Fill up before entering the park — fuel points are scarce on rural roads."
+      }
+    ]
+  },
+  "myths": {
+    "title": "Common Myths & Facts",
+    "subtitle": "About the salt pans and the park — are these claims actually true?",
+    "mythLabel": "Myth",
+    "factLabel": "Fact",
+    "items": [
+      {
+        "myth": "\"The water in the salt pans is pink because colour has been added.\"",
+        "fact": "No. The pink comes from salt-tolerant algae (Dunaliella salina) and halophilic microbes in the highly saline water; their natural pigments tint the ponds, and the colour deepens with salinity."
+      },
+      {
+        "myth": "\"If I go, I'm guaranteed to see the pink lagoon.\"",
+        "fact": "Not always. The pink is mainly visible during the evaporation/concentration phase (usually summer to early autumn) and depends on water levels and temperature. The pans have plenty to see all year — the pink is just one highlight."
+      },
+      {
+        "myth": "\"The park charges an entrance fee.\"",
+        "fact": "No. The park is free and open to everyone all year round; some guided activities run by the authorities are separate from any entrance fee."
+      },
+      {
+        "myth": "\"You can freely walk into the dunes and the ponds.\"",
+        "fact": "No. The ponds are working and ecological areas, mostly closed to the public, and dune vegetation is fragile. Stay on trails and viewing platforms to help protect bird habitat."
+      },
+      {
+        "myth": "\"Flamingos are here all year.\"",
+        "fact": "Flamingos are mainly migratory and wintering birds, most numerous in autumn and winter, with fewer in spring and summer. For large flocks, visit in winter or during the spring/autumn migrations."
+      },
+      {
+        "myth": "\"You can swim directly in the salt ponds.\"",
+        "fact": "No. The ponds are production facilities and swimming is not allowed. Swim at proper beaches such as Playa de la Llana or the Mar Menor shore."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "items": [
+      {
+        "q": "Where is the Salinas y Arenales de San Pedro del Pinatar Regional Park located?",
+        "a": "It is located in San Pedro del Pinatar, Region of Murcia, Spain (postal code 30740), between the Mar Menor lagoon and the Mediterranean Sea."
+      },
+      {
+        "q": "Is Salinas y Arenales de San Pedro del Pinatar free to visit?",
+        "a": "Yes, the park is a public space and is free to visit year-round, open 24 hours a day."
+      },
+      {
+        "q": "What birds can you see at the park?",
+        "a": "More than 130 species of birds can be observed throughout the year, including flamingos, avocets, terns, and gulls, especially during spring and autumn migration."
+      },
+      {
+        "q": "Are there restrooms and dining facilities inside the park?",
+        "a": "Public restrooms are available near the main entrances and the interpretation center, but there are no restaurants inside the park. Dining, accommodation, supermarkets, and other daily services are concentrated in the town of San Pedro del Pinatar and the seafront area, with a wide range of options."
+      },
+      {
+        "q": "Besides flamingos, what else can you see at the park?",
+        "a": "More than 130 bird species are recorded in the park each year. Besides flamingos, look out for avocets, black-winged stilts, terns, egrets, and several gulls, plus reptiles and amphibians around the dunes, and extensive salt-tolerant plants and Mediterranean scrub."
+      },
+      {
+        "q": "Is the park suitable for families with children or visitors with reduced mobility?",
+        "a": "Yes. The park has several flat, easy trails, and the main parking area gives straightforward access to the interpretation center and bird hides. Sandy paths can be more tiring, so it is best to ask the interpretation center or check official trail information to choose a route that suits your group."
+      }
+    ]
+  },
+  "sources": {
+    "title": "References & Sources",
+    "subtitle": "The science and facts on this site follow official and authoritative sources",
+    "intro": "To keep the content accurate and neutral, we consulted the following public sources. Click to verify on the official pages.",
+    "items": [
+      {
+        "label": "Ramsar Sites Information Service",
+        "desc": "The park's official entry as a Ramsar Wetland of International Importance (Ramsar Site No. 706).",
+        "url": "https://rsis.ramsar.org/"
+      },
+      {
+        "label": "Natura 2000 Network (EU)",
+        "desc": "Official data for the Special Protection Area (ZEPA) and Site of Community Importance (LIC), searchable in the EEA Natura 2000 viewer.",
+        "url": "https://natura2000.eea.europa.eu/"
+      },
+      {
+        "label": "Regional Government of Murcia (CARM)",
+        "desc": "Official management information, announcements, and environmental policy for the regional park.",
+        "url": "https://www.carm.es/"
+      },
+      {
+        "label": "Murcia Region Tourism Portal",
+        "desc": "Official destination tourism information and events.",
+        "url": "https://www.murciaturistica.es/"
+      },
+      {
+        "label": "San Pedro del Pinatar Town Council",
+        "desc": "Local information, municipal activities, and community notices.",
+        "url": "https://www.sanpedrodelpinatar.es/"
+      }
+    ],
+    "disclaimer": "This site is an independent, non-profit educational project with no affiliation to the institutions above. External links are provided for verification only; always rely on the latest official information."
   },
   "footer": {
     "brandName": "Salinas y Arenales de San Pedro del Pinatar",
